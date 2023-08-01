@@ -10,13 +10,16 @@ Motivated by real-life issues, my research focus broadly on managerial accountin
 
 ### Charitable CEOs
 
-<p background-color=grey> *Are charitable CEOs --- those take positions in charities --- make corporate decisions differently? Do they care more about their employees and develier better ESG performance?* The simple answer is **YES**. </p>
-
+<font color="blue"> Are charitable CEOs &mdash those take positions in charities &mdash make corporate decisions differently? Do they care more about their employees and develier better ESG performance? The answer is **YES**. </font>
 
 Recently, firms and individuals face high expectations that they behave responsibly. Not only increasing individuals volunteer for chritable organizations, CEOs have been observed to take positions, such as trustees, members or directors at chariatlable organizations as well. Although there are concerns that CEOs may involve in charities for social image, we find that charitable CEOs invest more in ESG activities, and their behaviors are more appreciated by the employees. Meanwhile, charitable CEOs behave responsibly in other corporate decisions, such as issuing financial reports of greater qualtiy and providing more accurate management forecasts to stakeholders.
 
 
 ### Human capital investment and Supporting underperforming Employees**
+
+<span style="background-color: #808080> Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. </span>
+
+
 
 
 
