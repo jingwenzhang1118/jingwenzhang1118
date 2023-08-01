@@ -6,9 +6,12 @@ title: "Research projects"
 ---
 
 <style>
+.highlight {
+    background-color: #CBD6E2
+}
 #body { background-color:blue; }
 #.highlightme { background-color:#FFFF00; }
-p {background-color:#DCDCDC;}
+#p {background-color:#DCDCDC;}
 </style>
 
 Motivated by real-life issues, my research focus broadly on managerial accounting, corporate governance, and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers, to balnace strategic behaviors and long-term goals of organizations.
@@ -26,7 +29,7 @@ Recently, firms and individuals face high expectations that they behave responsi
 
 ## Human capital investment and Supporting underperforming Employees**
 
-<p style="background-color: #DCDCDC> Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. </p>
+<span class="hightlight"> Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. </span>
 
 Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform efforts to acheive the company's objectives. 
 
