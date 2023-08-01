@@ -7,7 +7,7 @@ title: "Research projects"
 
 <style>
 .highlight {
-    background-color: #CBD6E2
+    background-color: #FFFF00
 }
 #body { background-color:blue; }
 #.highlightme { background-color:#FFFF00; }
@@ -20,18 +20,20 @@ Motivated by real-life issues, my research focus broadly on managerial accountin
 
 ## Charitable CEOs
 
-<font color="blue"> Are charitable CEOs &mdash those take positions in charities &mdash make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is <b>YES</b>. </font>
+<font color="blue"> <i>Are charitable CEOs --- those take positions in charities --- make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is <b>YES</b>.</i> </font>
 
-Recently, firms and individuals face high expectations that they behave responsibly. Not only increasing individuals volunteer for chritable organizations, CEOs have been observed to take positions, such as trustees, members or directors at chariatlable organizations as well. Although there are concerns that CEOs may involve in charities for social image, we find that charitable CEOs invest more in ESG activities, and their behaviors are more appreciated by the employees. Meanwhile, charitable CEOs behave responsibly in other corporate decisions, such as issuing financial reports of greater qualtiy and providing more accurate management forecasts to stakeholders.
+Recently, firms and individuals face high expectations that they behave responsibly. Not only increasing individuals volunteer for chritable organizations, CEOs have been observed to take positions, such as trustees, members or directors at chariatlable organizations as well. Although there are concerns that CEOs may involve in charities for social image, we find that charitable CEOs are more likely prosocial in nature and they invest more in ESG activities. Consequently, their behaviors are appreciated by the employees. Meanwhile, charitable CEOs behave responsibly in other corporate decisions, such as issuing financial reports of greater qualtiy and providing more accurate management forecasts to stakeholders.
 <br>
 <br>
 
 
 ## Human capital investment and Supporting underperforming Employees
 
-<div class="hightlight"> Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. </div>
+<div style="background-clor: lightgrey"> Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. </div>
 
-Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, no all employees are the same, and some of them may lack of the necessary management knowledge and skills. 
+Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, no all employees are the same, and some of them may lack of the necessary management knowledge and skills. But it is worth of changing the 
+
+
 
 
 
