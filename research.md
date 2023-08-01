@@ -23,7 +23,7 @@ Recently, firms and individuals face high expectations that they behave responsi
 
 <p style="background-color: #DCDCDC> Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. </p>
 
-Undoubtedly employees are the most valueable assets of an organization. 
+Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform efforts to acheive the company's objectives. 
 
 
 
