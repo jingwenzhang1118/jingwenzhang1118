@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Jingwen Zhang"
+author: "Jingwen Zhang"
+description: "Every moment is a fresh beginning."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -28,5 +28,12 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+remote_theme: niklasbuschmann/contrast@v3.0
+
 plugins:
- - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-gist
