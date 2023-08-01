@@ -5,6 +5,11 @@ title: "Research projects"
 
 ---
 
+<style>
+#body { background-color:blue; }
+#.highlightme { background-color:#FFFF00; }
+p {background-color:#DCDCDC;}
+</style>
 
 Motivated by real-life issues, my research focus broadly on managerial accounting, corporate governance, and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers, to balnace strategic behaviors and long-term goals of organizations.
 <br>
