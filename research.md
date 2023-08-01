@@ -27,11 +27,11 @@ Recently, firms and individuals face high expectations that they behave responsi
 <br>
 
 
-## Human capital investment and Supporting underperforming Employees**
+## Human capital investment and Supporting underperforming Employees
 
-<span class="hightlight"> Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. </span>
+<div class="hightlight"> Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. </div>
 
-Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform efforts to acheive the company's objectives. 
+Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, no all employees are the same, and some of them may lack of the necessary management knowledge and skills. 
 
 
 
