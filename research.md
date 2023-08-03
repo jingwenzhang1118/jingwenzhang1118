@@ -11,7 +11,6 @@ Motivated by real-life issues, my research focus broadly on managerial accountin
 <br>
 
 ## Charitable CEOs
-
 <div style="background-color: platinum; color: black">  <i>Are charitable CEOs --- those take positions in charities --- make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is <b>YES</b>.</i> 
 </div>
 
@@ -19,20 +18,13 @@ Recently, firms and individuals face high expectations that they behave responsi
 <br>
 <br>
 
-
-<div style="background-color: platinum; color: black"> 
-
-<h2> Human capital investment and Supporting underperforming Employees >/h2
-
-Should firms give up on underperforming employees? A better solution is to provide human capital investment to underperforming employees that still have potential to improve. 
+## Human capital investment and Supporting underperforming Employees
+<div style="background-color: timberwolf; color: black"> Should firms give up on underperforming employees? Actually NO, and a better solution is to provide human capital investment to underperforming employees that still have potential to improve. 
 </div>
 
 Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, some employees may lack of the necessary management knowledge and skills but have a great potential to improve. Our paper shows that when employees miss the targets but perform better relative to the peers, it is beneficial for firms to provide training and mentoring opportunities to these employees. With such human capital investment, underperforming employees can enhance their performance and thus firms have greater chances to maintain good performance. 
 <br>
 <br>
-
-
-
 
 
 
