@@ -7,6 +7,8 @@ title: "Research projects"
 
 
 Motivated by practical issues, my research focus broadly on managerial accounting, corporate governance, and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers, to balnace strategic behaviors and long-term goals of organizations.
+
+To examine my research questions, I rely on empirical evidence. I collect, organize and analyze both field data that are gathered from invididual companies and public data collected through public databases and web-scraping. 
 <br>
 <br>
 
@@ -19,7 +21,7 @@ Recently, firms and individuals face high expectations that they behave responsi
 <br>
 
 ## Human capital investment and Supporting underperforming Employees
- <div style="background-color: whitesmoke; color: black"> <b> Should firms give up on underperforming employees? Actually NO, and a better strategy is to provide human capital investment to underperforming employees that still have potential to improve. </b>
+ <div style="background-color: whitesmoke; color: black"> <b> Should firms give up on underperforming employees? Actually NO, and a better strategy is to provide human capital investment to underperforming employees that still have the potential to improve. </b>
  </div>
 
 Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, some employees may lack of the necessary management knowledge and skills but have a great potential to improve. Our paper shows that when employees miss the targets but perform better relative to the peers, it is beneficial for firms to provide training and mentoring opportunities to these employees. With such human capital investment, underperforming employees can enhance their performance and thus firms have greater chances to maintain good performance. 
@@ -28,6 +30,10 @@ Undoubtedly employees are the most valuable assets of an organization. Motivated
 
 
 ## Target ratcheting and effort withholding
+ <div style="background-color: whitesmoke; color: black"> <b> Most firms consider the positive impacts of targets on employees' efforts. Although it is tempting to ratceht targets to make the targets more challenging, firms should be cautious with such plan and in some cases firms gain more from not making the targets too difficult. </b>
+ </div>
+
+Setting targets for employees' performance serves 
 
 
 
@@ -37,5 +43,5 @@ Undoubtedly employees are the most valuable assets of an organization. Motivated
 
 
 
-
+## 
 
