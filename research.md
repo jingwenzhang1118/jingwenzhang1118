@@ -28,13 +28,13 @@ Undoubtedly employees are the most valuable assets of an organization. Motivated
 <br>
 <br>
 
-
 ## Target ratcheting and effort withholding
- <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Most firms consider the positive impacts of targets on employees' efforts. Although it is tempting to ratceht targets to make the targets more challenging, firms should be cautious with such plan and in some cases firms gain more from not making the targets too difficult. </b>
+ <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Most firms consider the positive impacts of targets on employees' efforts. Although it is tempting to ratchet targets to make the targets more challenging, firms should be cautious with such a plan and in some cases firms gain more from not making the targets too difficult. </b>
  </div>
 
-Setting targets for employees' performance serves multiple purposes, among which include encouraging high efforts, directing employees' behaviors, providing monetary rewards and evaluating employees' performance. However, firms may neglect the fact that when firms keep ratcheting targets employees will withhold efforts. Such strategic behaviors occur because employees know that good perfomrance leads to more difficult targets in the future, and they can withhold efforts now to avoid significant target rathceting of the next period, to increase the chance of meeting the targets in the future. Our study shows that firms do not need to worry that employees will lose incentives when firms refrain from target ratcheting, especially for employees who are always committed to their work and have performed better than the peers continuously. These well-performing employees have shown their intension to work hard and built a good relation and trust with the organization. Therefore a better situation can be achieved that employees are better insured about their pay via less target ratcheting and the firm benefits from high efforts of these employees. 
-
+Setting targets for employees serves multiple purposes, among which include encouraging high efforts, directing employees' behaviors, providing monetary rewards and evaluating employees' performance. However, firms may neglect the fact that when firms keep ratcheting targets employees will withhold efforts. Such strategic behaviors occur because employees know that good perfomrance leads to more difficult targets in the future, and they can withhold efforts now to avoid significant target rathceting of the next period, to increase the chance of meeting the targets again. Our study shows that firms do not need to worry that less target ratcheting results in lower efforts, especially for employees who are always committed to their work and have continuously performed better than the peers. These well-performing employees have shown their intension to work hard and hence developed trust and a good relation with the organization. Therefore less target ratcheting leads to a win-win situation that employees are better insured about their pay and the firm benefits from high efforts of these employees. 
+<br>
+<br>
 
 ## Knowledge Exchange via headquarter site visits
 
