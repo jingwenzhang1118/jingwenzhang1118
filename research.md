@@ -21,7 +21,7 @@ Recently, firms and individuals face high expectations that they behave responsi
 <br>
 
 ## Human capital investment and Supporting underperforming Employees
- <div style="background-color: whitesmoke; color: black; font-size: 18px; text-align: justify"> <b> Should firms give up on their underperforming employees? Actually NO, and a better strategy is to provide human capital investment to underperforming employees that still have the potential to improve. </b>
+ <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Should firms give up on their underperforming employees? Actually NO, and a better strategy is to provide human capital investment to underperforming employees that still have the potential to improve. </b>
  </div>
 
 Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, some employees may lack of the necessary management knowledge and skills but have a great potential to improve. Our paper shows that when employees miss the targets but perform better relative to the peers, it is beneficial for firms to provide training and mentoring opportunities to these employees. With such human capital investment, underperforming employees can enhance their performance and thus firms have greater chances to maintain good performance. 
@@ -30,12 +30,10 @@ Undoubtedly employees are the most valuable assets of an organization. Motivated
 
 
 ## Target ratcheting and effort withholding
- <div style="background-color: whitesmoke; color: black; text-align: justify"> <b> Most firms consider the positive impacts of targets on employees' efforts. Although it is tempting to ratceht targets to make the targets more challenging, firms should be cautious with such plan and in some cases firms gain more from not making the targets too difficult. </b>
+ <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Most firms consider the positive impacts of targets on employees' efforts. Although it is tempting to ratceht targets to make the targets more challenging, firms should be cautious with such plan and in some cases firms gain more from not making the targets too difficult. </b>
  </div>
 
-Setting targets for employees' performance serves multiple purposes, among which include encourages high efforts, provides monetary rewards to employees, directs the behaviors of the employees and evaluates the performance of employees. However, firms may neglect the fact that employees may behave strategically when firms keep rath
-
-
+Setting targets for employees' performance serves multiple purposes, among which include encouraging high efforts, directing employees' behaviors, providing monetary rewards and evaluating employees' performance. However, firms may neglect the fact that when firms keep ratcheting targets employees will withhold efforts. Such strategic behaviors occur because employees know that good perfomrance leads to more difficult targets in the future, and they can withhold efforts now to avoid significant target rathceting of the next period, to increase the chance of meeting the targets in the future. Our study shows that firms do not need to worry that employees will lose incentives when firms refrain from target ratcheting, especially for employees who are always committed to their work and have performed better than the peers continuously. These well-performing employees have shown their intension to work hard and built a good relation and trust with the organization. Therefore a better situation can be achieved that employees are better insured about their pay via less target ratcheting and the firm benefits from high efforts of these employees. 
 
 
 ## Knowledge Exchange via headquarter site visits
@@ -43,5 +41,7 @@ Setting targets for employees' performance serves multiple purposes, among which
 
 
 
-## 
+## Monitoring and overconfidient managers
+
+
 
