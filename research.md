@@ -14,7 +14,7 @@ I rely on empirical evidence to examine my research questions. I collect, organi
 <hr style="background-color: whitesmoke">
 
 ## Charitable CEOs
-<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">  <b>Do charitable CEOs, those take positions in charities, make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. </b> 
+<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">  Do charitable CEOs, those take positions in charities, make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
 </div>
 
 <p>
@@ -42,7 +42,6 @@ I rely on empirical evidence to examine my research questions. I collect, organi
     </p>
 </details>
 <br>
-<br>
 <hr style="background-color: whitesmoke">
 
 ## Target ratcheting and effort withholding
@@ -62,7 +61,7 @@ I rely on empirical evidence to examine my research questions. I collect, organi
 <hr style="background-color: whitesmoke">
 
 ## Knowledge Exchange and spillover effects through headquarter site visits
- <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But what is often overlooked is that unit managers that are not visited by headquarter managers also beneift from the visits through knowledge spillovers among peers.</b>
+ <div style="font-size: 17px; text-align: justify"> <b> headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But what is often overlooked is that unit managers that are not visited by headquarter managers also beneift from the visits through knowledge spillovers among peers.</b>
  </div>
 
 <p>
