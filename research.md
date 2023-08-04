@@ -21,7 +21,7 @@ I rely on empirical evidence to examine my research questions. I collect, organi
 </p>
 
 <details>
-    <summary style="color: #a9a9a9">[Read More...]</summary>
+    <summary style="color: #989898">[Read More...]</summary>
     <p>Recently, firms and individuals face high expectations that they behave responsibly. Not only increasing individuals volunteer for chritable organizations, CEOs have been observed to take positions, such as trustees, members or directors at chariatlable organizations as well. Although there are concerns that CEOs may involve in charities for social image, our paper finds that charitable CEOs are more likely prosocial in nature and they invest more in ESG activities. Consequently, their behaviors are appreciated by the employees. Meanwhile, charitable CEOs behave responsibly in other corporate decisions as well, such as issuing financial reports of greater qualtiy and providing more accurate management forecasts to stakeholders.
     </p>
 </details>
@@ -51,7 +51,7 @@ I rely on empirical evidence to examine my research questions. I collect, organi
 </p>
 
 <details>
-    <summary style="color: grey">[Read More...]</summary>
+    <summary style="color: #989898">[Read More...]</summary>
     <p>Setting targets for employees serves multiple purposes, among which include encouraging high efforts, directing employees' behaviors, providing monetary rewards and evaluating employees' performance. However, firms may neglect the fact that when firms keep ratcheting targets employees will withhold their efforts. Such strategic behaviors occur because employees know that good perfomrance leads to more difficult targets in the future, and they decide to withhold efforts now to avoid significant target rathceting of the next period, so that they can increase the chance of meeting the future targets. Our study shows that firms do not need to worry that less target ratcheting may result in lower efforts, especially for employees who are always committed to their work and have continuously performed better than the peers. These well-performing employees have shown their intension to work hard and hence developed trust and a good relation with the organization. Therefore less target ratcheting leads to a win-win situation for the firm and these committed employees because the pay of these employees is better insured and the firm benefits from high efforts of these employees.   
     </p>
 </details>
@@ -66,7 +66,7 @@ I rely on empirical evidence to examine my research questions. I collect, organi
 </p>
 
 <details>
-    <summary style="color: #808080">[Read More...]</summary>
+    <summary style="color: #989898">[Read More...]</summary>
     <p>Headquarters' visits at local units are common practices implemented by organizations to facilitate knowledge transfer. Headquarter managers can share their knowldge and help local managers via face-to-face communications and on-site training. This paper finds that, With improved management practices, local managers who are visited by headquarter managers indeed enhance performance after the site visits. Another interesting finding of the paper is that local managers that are not visited by headquarter managers but are located close to those who are visited by headquarter managers can also improve performance after the visits. These managers are able to achieve better performance even without site visits is because they can learn from their peers' improved practices. Overall, site visits do not only benefit local managers via direct knowledge exchange between headquarter managers and unit managers, they also indirectly help local managers who are not visited via knowledge spillover among local managers.  
     </p>
 </details>
@@ -81,7 +81,7 @@ I rely on empirical evidence to examine my research questions. I collect, organi
 </p>
 
 <details>
-    <summary style="color: #c0c0c0">[Read More...]</summary>
+    <summary style="color: #989898">[Read More...]</summary>
     <p>As the connection between upper management and front-line employees, middle-level managers are of great importance to firms. This project considers two characteristics of middle-level managers: conformity and originality. Both types of managers are valuable to firms. Conformative managers are willing to comply with rules, which reduces the conflicts in the workforce and smoothes the cooperation among employees. On the other hand, original managers prefer exploring new ideas, which is helpful when the tasks are chanllenging and cannot be solved by existing methods. We find that superiors indeed know their subordiantes sufficiently and adapt their controls. Superiors talk more with conformative managers but these talks are mostly initiated by the managers. These talks assure the comformative managers that their decisions are aligned with the firms' objectives. On the contrary, supeirios allocate more complicated tasks to original managers but the discussions between original managers and supeiors are often requested by superiors. Such controls limit the chances that original managers take too risky steps and allow supeiors to closely follow the progress of the projects. The findings suggest that controls become more effective by consiering middle-level managers' preferences.
     </p>
 </details>
