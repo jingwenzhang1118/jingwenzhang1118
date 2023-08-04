@@ -45,7 +45,6 @@ Setting targets for employees serves multiple purposes, among which include enco
  </div>
 <p>
     <br>
-    <br>
 </p>
 
 <details>
