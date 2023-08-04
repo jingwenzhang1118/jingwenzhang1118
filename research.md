@@ -21,23 +21,22 @@ I rely on empirical evidence to examine my research questions. I collect, organi
 </p>
 
 <details>
-    <summary>[Read More...]</summary>
+    <summary style="background-color: whitesmoke; color: blue">[Read More...]</summary>
     <p>Recently, firms and individuals face high expectations that they behave responsibly. Not only increasing individuals volunteer for chritable organizations, CEOs have been observed to take positions, such as trustees, members or directors at chariatlable organizations as well. Although there are concerns that CEOs may involve in charities for social image, our paper finds that charitable CEOs are more likely prosocial in nature and they invest more in ESG activities. Consequently, their behaviors are appreciated by the employees. Meanwhile, charitable CEOs behave responsibly in other corporate decisions as well, such as issuing financial reports of greater qualtiy and providing more accurate management forecasts to stakeholders.
     </p>
 </details>
 <br>
-<br>
 <hr style="background-color: whitesmoke">
 
 ## Human capital investment and Supporting underperforming Employees
- <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Should firms give up on their underperforming employees? Actually NO, and a better strategy is to provide human capital investment to underperforming employees that still have the potential to improve. </b>
- </div>
+<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">Should firms give up on their underperforming employees? Actually NO, and a better strategy is to provide human capital investment to underperforming employees that still have the potential to improve.
+</div>
 
 <p>
 </p>
 
 <details>
-    <summary>[Read More...]</summary>
+    <summary style="color: whitesmoke">[Read More...]</summary>
     <p>Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, some employees miss the target because they may lack the necessary management knowledge and skills but have a great potential to improve. Our paper shows that when employees underperform the targets but outperform their peers, it is beneficial for firms to provide training and mentoring opportunities to these employees, rather than dismiss them. With such human capital investment, underperforming employees can enhance their performance and thus firms have greater chances to maintain good performance. 
     </p>
 </details>
@@ -45,23 +44,22 @@ I rely on empirical evidence to examine my research questions. I collect, organi
 <hr style="background-color: whitesmoke">
 
 ## Target ratcheting and effort withholding
- <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Most firms consider the positive impacts of target setting on employees' efforts. Although it is tempting to ratchet targets to make the targets more challenging, firms should be cautious with such a plan and in some cases firms gain more from not making the targets too difficult. </b>
- </div>
+<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Most firms consider the positive impacts of target setting on employees' efforts. Although it is tempting to ratchet targets to make the targets more challenging, firms should be cautious with such a plan and in some cases firms gain more from not making the targets too difficult. </b>
+</div>
 
 <p>
 </p>
 
 <details>
-    <summary>[Read More...]</summary>
+    <summary style="color: grey">[Read More...]</summary>
     <p>Setting targets for employees serves multiple purposes, among which include encouraging high efforts, directing employees' behaviors, providing monetary rewards and evaluating employees' performance. However, firms may neglect the fact that when firms keep ratcheting targets employees will withhold their efforts. Such strategic behaviors occur because employees know that good perfomrance leads to more difficult targets in the future, and they decide to withhold efforts now to avoid significant target rathceting of the next period, so that they can increase the chance of meeting the future targets. Our study shows that firms do not need to worry that less target ratcheting may result in lower efforts, especially for employees who are always committed to their work and have continuously performed better than the peers. These well-performing employees have shown their intension to work hard and hence developed trust and a good relation with the organization. Therefore less target ratcheting leads to a win-win situation for the firm and these committed employees because the pay of these employees is better insured and the firm benefits from high efforts of these employees.   
     </p>
 </details>
 <br>
-<br>
 <hr style="background-color: whitesmoke">
 
 ## Knowledge Exchange and spillover effects through headquarter site visits
- <div style="font-size: 17px; text-align: justify"> <b> headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But what is often overlooked is that unit managers that are not visited by headquarter managers also beneift from the visits through knowledge spillovers among peers.</b>
+ <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> Headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But what is often overlooked is that unit managers that are not visited by headquarter managers also beneift from the visits through knowledge spillovers among peers.
  </div>
 
 <p>
@@ -73,11 +71,10 @@ I rely on empirical evidence to examine my research questions. I collect, organi
     </p>
 </details>
 <br>
-<br>
 <hr style="background-color: whitesmoke">
 
 ## Superios' control and characteristics of middle-level managers
- <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Middle-level managers are the engine of the business. As managers prefer different working styles, controlling them in the same way does not achieve the best performnace. Superiors should know their subordinates well and adjust their controls to enable managers of different characteristics to work in their preferable ways.</b>
+ <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> Middle-level managers are the engine of the business. As managers prefer different working styles, controlling them in the same way does not achieve the best performnace. Superiors should know their subordinates well and adjust their controls to enable managers of different characteristics to work in their preferable ways.
  </div>
 
 <p>
@@ -88,5 +85,4 @@ I rely on empirical evidence to examine my research questions. I collect, organi
     <p>As the connection between upper management and front-line employees, middle-level managers are of great importance to firms. This project considers two characteristics of middle-level managers: conformity and originality. Both types of managers are valuable to firms. Conformative managers are willing to comply with rules, which reduces the conflicts in the workforce and smoothes the cooperation among employees. On the other hand, original managers prefer exploring new ideas, which is helpful when the tasks are chanllenging and cannot be solved by existing methods. We find that superiors indeed know their subordiantes sufficiently and adapt their controls. Superiors talk more with conformative managers but these talks are mostly initiated by the managers. These talks assure the comformative managers that their decisions are aligned with the firms' objectives. On the contrary, supeirios allocate more complicated tasks to original managers but the discussions between original managers and supeiors are often requested by superiors. Such controls limit the chances that original managers take too risky steps and allow supeiors to closely follow the progress of the projects. The findings suggest that controls become more effective by consiering middle-level managers' preferences.
     </p>
 </details>
-<br>
 <br>
