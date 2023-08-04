@@ -41,17 +41,21 @@ Setting targets for employees serves multiple purposes, among which include enco
 <hr style="background-color: whitesmoke">
 
 ## Knowledge Exchange and spillover effects through headquarter site visits
- <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited, which can help local units improve performnace. But what is often overlooked is that unit managers that are not visited by headquarter managers also beneift from the visits through knowledge spillovers among peers.</b>
+ <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But what is often overlooked is that unit managers that are not visited by headquarter managers also beneift from the visits through knowledge spillovers among peers.</b>
  </div>
 
-Headquarters' visits at local units are common practices implemented by organizations to facilitate knowledge transfer. Headquarter managers can share their knowldge and help local managers via face-to-face communications and on-site training. This paper finds that, With improved management practices, local managers who are visited by headquarter managers indeed enhance performance after the site visits. Another interesting finding of the paper is that local managers that are not visited by headquarter managers but are located close to those who are visited by headquarter managers can also improve performance after the visits. These managers are able to achieve better performance even without site visits is because they can learn from their peers' improved practices. Overall, site visits do not only benefit local managers via direct knowledge exchange between headquarter managers and unit managers, they also indirectly help local managers who are not visited via knowledge spillover among peers.  
+<details>
+    <summary>Abstract</summary>
+    <p class="abstract-text" style="font-size:.90em">Does free riding in collective... unemployment, at a cost of employed earning less</p>
+</details>
 
+Headquarters' visits at local units are common practices implemented by organizations to facilitate knowledge transfer. Headquarter managers can share their knowldge and help local managers via face-to-face communications and on-site training. This paper finds that, With improved management practices, local managers who are visited by headquarter managers indeed enhance performance after the site visits. Another interesting finding of the paper is that local managers that are not visited by headquarter managers but are located close to those who are visited by headquarter managers can also improve performance after the visits. These managers are able to achieve better performance even without site visits is because they can learn from their peers' improved practices. Overall, site visits do not only benefit local managers via direct knowledge exchange between headquarter managers and unit managers, they also indirectly help local managers who are not visited via knowledge spillover among local managers.  
 <br>
 <br>
 <hr style="background-color: whitesmoke">
 
 ## Superios' control and characteristics of middle-level managers
- <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Middle-level managers are the engine of the business. Since managers may prefer different working styles, controlling them in the same way may not achieve the best performnace. Superiors should know their subordinates well and adjust their controls to enable managers of different characteristics to work in their preferable ways.
+ <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Middle-level managers are the engine of the business. As managers prefer different working styles, controlling them in the same way does not achieve the best performnace. Superiors should know their subordinates well and adjust their controls to enable managers of different characteristics to work in their preferable ways.
  </b>
  </div>
 
