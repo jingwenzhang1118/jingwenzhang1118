@@ -43,9 +43,10 @@ Setting targets for employees serves multiple purposes, among which include enco
 ## Knowledge Exchange and spillover effects through headquarter site visits
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But what is often overlooked is that unit managers that are not visited by headquarter managers also beneift from the visits through knowledge spillovers among peers.</b>
  </div>
-
-
-
+<p>
+    <br>
+    <br>
+</p>
 
 <details>
     <summary>[Read More...]</summary>
