@@ -8,7 +8,7 @@ title: "Research projects"
 
 Motivated by practical issues, my research focus broadly on managerial accounting, corporate governance, and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers, to balnace strategic behaviors and long-term goals of organizations.
 
- rely on empirical evidence to examine my research questions. I collect, organize and analyze both field data that are gathered from invididual companies and public data collected through public databases and web-scraping. 
+I rely on empirical evidence to examine my research questions. I collect, organize and analyze both field data that are gathered from invididual companies and public data collected through public databases and web-scraping. 
 <br>
 <br>
 <hr style="background-color: whitesmoke">
