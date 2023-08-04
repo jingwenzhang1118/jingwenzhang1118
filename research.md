@@ -17,7 +17,14 @@ Motivated by practical issues, my research focus broadly on managerial accountin
 <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">  <b>Do charitable CEOs, those take positions in charities, make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. </b> 
 </div>
 
-Recently, firms and individuals face high expectations that they behave responsibly. Not only increasing individuals volunteer for chritable organizations, CEOs have been observed to take positions, such as trustees, members or directors at chariatlable organizations as well. Although there are concerns that CEOs may involve in charities for social image, our paper finds that charitable CEOs are more likely prosocial in nature and they invest more in ESG activities. Consequently, their behaviors are appreciated by the employees. Meanwhile, charitable CEOs behave responsibly in other corporate decisions as well, such as issuing financial reports of greater qualtiy and providing more accurate management forecasts to stakeholders.
+<p>
+</p>
+
+<details>
+    <summary>[Read More...]</summary>
+    <p>Recently, firms and individuals face high expectations that they behave responsibly. Not only increasing individuals volunteer for chritable organizations, CEOs have been observed to take positions, such as trustees, members or directors at chariatlable organizations as well. Although there are concerns that CEOs may involve in charities for social image, our paper finds that charitable CEOs are more likely prosocial in nature and they invest more in ESG activities. Consequently, their behaviors are appreciated by the employees. Meanwhile, charitable CEOs behave responsibly in other corporate decisions as well, such as issuing financial reports of greater qualtiy and providing more accurate management forecasts to stakeholders.
+    </p>
+</details>
 <br>
 <br>
 <hr style="background-color: whitesmoke">
@@ -26,7 +33,14 @@ Recently, firms and individuals face high expectations that they behave responsi
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Should firms give up on their underperforming employees? Actually NO, and a better strategy is to provide human capital investment to underperforming employees that still have the potential to improve. </b>
  </div>
 
-Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, some employees miss the target because they may lack the necessary management knowledge and skills but have a great potential to improve. Our paper shows that when employees underperform the targets but outperform their peers, it is beneficial for firms to provide training and mentoring opportunities to these employees, rather than dismiss them. With such human capital investment, underperforming employees can enhance their performance and thus firms have greater chances to maintain good performance. 
+<p>
+</p>
+
+<details>
+    <summary>[Read More...]</summary>
+    <p>Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop new and innovative products, meet the market's demands, and perform great efforts to acheive the company's objectives. However, some employees miss the target because they may lack the necessary management knowledge and skills but have a great potential to improve. Our paper shows that when employees underperform the targets but outperform their peers, it is beneficial for firms to provide training and mentoring opportunities to these employees, rather than dismiss them. With such human capital investment, underperforming employees can enhance their performance and thus firms have greater chances to maintain good performance. 
+    </p>
+</details>
 <br>
 <br>
 <hr style="background-color: whitesmoke">
@@ -35,7 +49,14 @@ Undoubtedly employees are the most valuable assets of an organization. Motivated
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Most firms consider the positive impacts of target setting on employees' efforts. Although it is tempting to ratchet targets to make the targets more challenging, firms should be cautious with such a plan and in some cases firms gain more from not making the targets too difficult. </b>
  </div>
 
-Setting targets for employees serves multiple purposes, among which include encouraging high efforts, directing employees' behaviors, providing monetary rewards and evaluating employees' performance. However, firms may neglect the fact that when firms keep ratcheting targets employees will withhold their efforts. Such strategic behaviors occur because employees know that good perfomrance leads to more difficult targets in the future, and they decide to withhold efforts now to avoid significant target rathceting of the next period, so that they can increase the chance of meeting the future targets. Our study shows that firms do not need to worry that less target ratcheting may result in lower efforts, especially for employees who are always committed to their work and have continuously performed better than the peers. These well-performing employees have shown their intension to work hard and hence developed trust and a good relation with the organization. Therefore less target ratcheting leads to a win-win situation for the firm and these committed employees because the pay of these employees is better insured and the firm benefits from high efforts of these employees. 
+<p>
+</p>
+
+<details>
+    <summary>[Read More...]</summary>
+    <p>Setting targets for employees serves multiple purposes, among which include encouraging high efforts, directing employees' behaviors, providing monetary rewards and evaluating employees' performance. However, firms may neglect the fact that when firms keep ratcheting targets employees will withhold their efforts. Such strategic behaviors occur because employees know that good perfomrance leads to more difficult targets in the future, and they decide to withhold efforts now to avoid significant target rathceting of the next period, so that they can increase the chance of meeting the future targets. Our study shows that firms do not need to worry that less target ratcheting may result in lower efforts, especially for employees who are always committed to their work and have continuously performed better than the peers. These well-performing employees have shown their intension to work hard and hence developed trust and a good relation with the organization. Therefore less target ratcheting leads to a win-win situation for the firm and these committed employees because the pay of these employees is better insured and the firm benefits from high efforts of these employees.   
+    </p>
+</details>
 <br>
 <br>
 <hr style="background-color: whitesmoke">
@@ -43,8 +64,8 @@ Setting targets for employees serves multiple purposes, among which include enco
 ## Knowledge Exchange and spillover effects through headquarter site visits
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But what is often overlooked is that unit managers that are not visited by headquarter managers also beneift from the visits through knowledge spillovers among peers.</b>
  </div>
+
 <p>
-    <br>
 </p>
 
 <details>
@@ -59,7 +80,8 @@ Setting targets for employees serves multiple purposes, among which include enco
 ## Superios' control and characteristics of middle-level managers
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Middle-level managers are the engine of the business. As managers prefer different working styles, controlling them in the same way does not achieve the best performnace. Superiors should know their subordinates well and adjust their controls to enable managers of different characteristics to work in their preferable ways.</b>
  </div>
- <p>
+
+<p>
 </p>
 
 <details>
