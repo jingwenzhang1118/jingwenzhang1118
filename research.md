@@ -57,10 +57,15 @@ Setting targets for employees serves multiple purposes, among which include enco
 <hr style="background-color: whitesmoke">
 
 ## Superios' control and characteristics of middle-level managers
- <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Middle-level managers are the engine of the business. As managers prefer different working styles, controlling them in the same way does not achieve the best performnace. Superiors should know their subordinates well and adjust their controls to enable managers of different characteristics to work in their preferable ways.
- </b>
+ <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> <b> Middle-level managers are the engine of the business. As managers prefer different working styles, controlling them in the same way does not achieve the best performnace. Superiors should know their subordinates well and adjust their controls to enable managers of different characteristics to work in their preferable ways.</b>
  </div>
+ <p>
+</p>
 
-As the connection between upper management and front-line employees, middle-level managers are of great importance to firms. This project considers two characteristics of middle-level managers: conformity and originality. Both types of managers are valuable to firms. Conformative managers are willing to comply with rules, which reduces the conflicts in the workforce and smoothes the cooperation among employees. On the other hand, original managers prefer exploring new ideas, which is helpful when the tasks are chanllenging and cannot be solved by existing methods. We find that superiors indeed know their subordiantes sufficiently and adapt their controls. Superiors talk more with conformative managers but these talks are mostly initiated by the managers. These talks assure the comformative managers that their decisions are aligned with the firms' objectives. On the contrary, supeirios allocate more complicated tasks to original managers but the discussions between original managers and supeiors are often requested by superiors. Such controls limit the chances that original managers take too risky steps and allow supeiors to closely follow the progress of the projects. The findings suggest that controls become more effective by consiering middle-level managers' preferences.
+<details>
+    <summary>[Read More...]</summary>
+    <p>As the connection between upper management and front-line employees, middle-level managers are of great importance to firms. This project considers two characteristics of middle-level managers: conformity and originality. Both types of managers are valuable to firms. Conformative managers are willing to comply with rules, which reduces the conflicts in the workforce and smoothes the cooperation among employees. On the other hand, original managers prefer exploring new ideas, which is helpful when the tasks are chanllenging and cannot be solved by existing methods. We find that superiors indeed know their subordiantes sufficiently and adapt their controls. Superiors talk more with conformative managers but these talks are mostly initiated by the managers. These talks assure the comformative managers that their decisions are aligned with the firms' objectives. On the contrary, supeirios allocate more complicated tasks to original managers but the discussions between original managers and supeiors are often requested by superiors. Such controls limit the chances that original managers take too risky steps and allow supeiors to closely follow the progress of the projects. The findings suggest that controls become more effective by consiering middle-level managers' preferences.
+    </p>
+</details>
 <br>
 <br>
