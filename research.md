@@ -11,7 +11,7 @@ Motivated by practical issues, my research focuses broadly on managerial account
 I leverage empirical evidence to investigate my research questions. I collect, organize and analyze field data gathered from invididual companies, as well as public data collected through public databases and web scraping. 
 <br>
 <br>
-<hr style="background-color: whitesmoke; size: 1px; opacity: .5">
+<hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
 ## Charitable CEOs
 <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">  Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
@@ -71,7 +71,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
     </p>
 </details>
 <br>
-<hr style="background-color: whitesmoke; size: 1px; opacity: .5">
+<hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
 ## Superios' control and characteristics of middle-level managers
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> Middle-level managers serve as the engine of the business. Given that managers prefer distinct working styles, applying the same control approach cannot achieve the best performnace. Superiors should know their subordinates well and adjust their controls accordingly to enable managers with varying characteristics to work in their preferable ways.
