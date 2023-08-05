@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:j.zhang@ese.eur.nl"}
   - {title: Github, icon: github, url: "https://github.com/jingwenzhang1118"}
   - {title: Linkedin, icon: linkedin, url: ""}
-  - {title: EUR, icon: University, url: ""}
+  - {title: University, icon: university, url: ""}
 
 
 comments:
