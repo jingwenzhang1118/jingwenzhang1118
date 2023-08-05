@@ -26,7 +26,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
     </p>
 </details>
 <br>
-<hr style="background-color: #dcdcdc">
+<hr style="background-color: #fcfcfc; size: 1px">
 
 ## Human capital investment and Supporting underperforming Employees
 <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">Should firms give up on their underperforming employees? The answer is a resounding NO. A better strategy is to provide human capital investment to those underperforming employees who still have the potential for improvement.
@@ -41,7 +41,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
     </p>
 </details>
 <br>
-<hr style="background-color: whitesmoke">
+<hr style="background-color: #fcfcfc; size: 1px">
 
 ## Target ratcheting and effort withholding
 <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> Most firms recognize the beneficial effects of setting targets on motivating employees' efforts. Although it is tempting to increase the challenge by ratcheting targets, firms should be cautious with such an approach and in some cases firms gain more by refraining from making the targets too difficult.
@@ -56,7 +56,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
     </p>
 </details>
 <br>
-<hr style="background-color: whitesmoke">
+<hr style="background-color: whitesmoke; size: 1px">
 
 ## Knowledge Exchange and spillover effects through headquarter site visits
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> Headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers they visited. But what is often overlooked is that unit managers who do not receive visits from headquarter managers also beneift from these site visits through knowledge spillovers among peers.
@@ -71,7 +71,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
     </p>
 </details>
 <br>
-<hr style="background-color: whitesmoke">
+<hr style="background-color: whitesmoke; size: 1px">
 
 ## Superios' control and characteristics of middle-level managers
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> Middle-level managers serve as the engine of the business. Given that managers prefer distinct working styles, applying the same control approach cannot achieve the best performnace. Superiors should know their subordinates well and adjust their controls accordingly to enable managers with varying characteristics to work in their preferable ways.
