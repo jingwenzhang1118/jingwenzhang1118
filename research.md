@@ -11,7 +11,7 @@ Motivated by practical issues, my research focuses broadly on managerial account
 I leverage empirical evidence to investigate my research questions. I collect, organize and analyze field data gathered from invididual companies, as well as public data collected through public databases and web scraping. 
 <br>
 <br>
-<hr style="background-color: whitesmoke; size: 1px">
+<hr style="background-color: whitesmoke; size: 1px; opacity: .5">
 
 ## Charitable CEOs
 <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">  Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
@@ -26,7 +26,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
     </p>
 </details>
 <br>
-<hr style="background-color: #fcfcfc; size: 1px">
+<hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
 ## Human capital investment and Supporting underperforming Employees
 <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">Should firms give up on their underperforming employees? The answer is a resounding NO. A better strategy is to provide human capital investment to those underperforming employees who still have the potential for improvement.
