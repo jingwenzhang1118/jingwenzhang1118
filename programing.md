@@ -11,7 +11,9 @@ title: "Programing practices"
 }
 </style>
 
-Progamming skills certainly increases the possibities and flexibilities of data-related tasks. I have benefited significanly from the following open courses. These courses are clearly explained and well designed. One valuable asset of these courses are the problem sets. The difficulty of these problmes, espeically the CS50 series offered by Harvard University start at the entry level but quickly escalate by weeks. One important lesson I learned from my programming experiences is that do not lose patience *because all the problems can be solved in the programming world*. 
+Progamming skills certainly increases the possibities and flexibilities in solving data-related tasks. I have benefited significanly from the following open courses. These courses are intriguing clearly explained and well designed. One valuable asset of these courses are the problem sets. The difficulty of these problmes, espeically the CS50 series offered by Harvard University start at the entry level but quickly escalate by weeks. 
+
+One important lesson I learned from my programming experiences is that **do not lose patience because all the problems can be solved in the programming world**. 
 
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
