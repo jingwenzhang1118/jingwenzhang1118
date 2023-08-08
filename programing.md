@@ -20,7 +20,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 
 
-Codes for Problem sets
+<font size="15px">Codes for Problem sets</font>
 - Week 1 Intro to C:
     [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| 
     [credit](https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1) \| 
