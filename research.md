@@ -5,12 +5,18 @@ title: "Research projects"
 
 ---
 
-<img style="width: 100%; heigth: 50%" src="/images/Research-Spotlight.jpeg" >
-
-
-<img style="opacity: .5" src="/images/investigative-research.jpeg">
-
-
+<style>
+.container {
+    width: 100%;
+    height: 40%;
+    margin: 0 auto;
+}
+.container img.wide {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+}
+</style>
 
 
 Motivated by practical issues, my research focuses broadly on managerial accounting, corporate governance and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers. The goal is to balance short-term strategic behaviors and long-term goals of organizations.
@@ -19,8 +25,8 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <br>
 <br>
 
-<div style="text-align: center;">
-<img width="400" src="/images/investigative-research.jpeg">
+<div class="container">
+<img src="/images/investigative-research.jpeg">
 </div>
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
