@@ -5,10 +5,10 @@ title: "Research projects"
 
 ---
 
-<img src="/images/Research-Spotlight.jpeg" height="300">
+<img src="/images/Research-Spotlight.jpeg" height="200px">
 
 
-<img src="/images/investigative-research.jpeg" height="300">
+<img src="/images/investigative-research.jpeg" height="200px">
 
 
 Motivated by practical issues, my research focuses broadly on managerial accounting, corporate governance and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers. The goal is to balance short-term strategic behaviors and long-term goals of organizations.
