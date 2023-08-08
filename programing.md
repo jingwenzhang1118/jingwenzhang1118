@@ -15,10 +15,11 @@ li {
   padding-left: 6px; 
   text-indent: 6px;
 }
-
+/*
 li::before {
   content: "•";
 }
+*/
 
 .cs50-list {
     list-style-position: inside
