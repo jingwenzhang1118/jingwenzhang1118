@@ -21,12 +21,54 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 **Codes for Problem sets**
 <ul>
-<li> Week 1 Intro to C:
-    <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
-    <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1" target="_blank"> credit</a> |  
-    <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-less.c" target="_blank">mario-less</a> | 
-    <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-more.c" target="_blank">mario-more</a> |  
-</li>
+    <li> Week 1 Intro to C:
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1" target="_blank"> credit</a> |  
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-less.c" target="_blank">mario-less</a> | 
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-more.c" target="_blank">mario-more</a> 
+    </li>
+    <li> Week 2 Arrays:
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/bulbs.c" target="_blank">bulbs</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/caesar.c" target="_blank">caesar</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/readability.c" target="_blank">readability</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/substitution.c" target="_blank">substitution</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/wordle.c" target="_blank">wordle</a> 
+    </li>
+    <li> Week 3 Algorithms:
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> 
+    </li>
+    <li> Week 4 Memory:
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> 
+    </li>
+    <li> Week 5 Data structures:
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> 
+    </li>
+    <li> Week 6 Python:
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> 
+    </li>
+    <li> Week 7 SQL:
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> |
+        <a href="" target="_blank"> </a> 
+    </li>
 </ul>
 
 
