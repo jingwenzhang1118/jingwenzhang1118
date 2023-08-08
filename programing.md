@@ -20,14 +20,14 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 <div>
 <b>Codes for Problem sets</b>
-<ul stype="margin-left: 100px">
-    <li> Intro to C Week 1 :
+<ul stype="margin-left: 300px">
+    <li> Week 1 Intro to C:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1" target="_blank"> credit</a> |  
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-less.c" target="_blank">mario-less</a> | 
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-more.c" target="_blank">mario-more</a> 
     </li>
-    <li> Arrays Week 2 Arrays:
+    <li> Week 2 Arrays:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/bulbs.c" target="_blank">bulbs</a> |
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/caesar.c" target="_blank">caesar</a> |
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/readability.c" target="_blank">readability</a> |
