@@ -7,9 +7,11 @@ title: "Programing practices"
 
 <style>
 
-ul li {
-    float: left;
+ul {
+display: grid;
+align-items: left-start;
 }
+
 
 /*
 ul {
