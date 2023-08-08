@@ -11,7 +11,7 @@ ul {
     display: grid;
     align-items: left-start;
     padding-left: 20px;
-    line-height: 1;
+    line-height: 1.15;
 }
 
 li {
