@@ -14,7 +14,7 @@ ul {
 }
 
 li {
-    padding-top: 0;
+    padding-top: 0px;
     padding-bottom: 0px;
 }
 
@@ -184,7 +184,7 @@ My codes for the *Problem sets* are linked below. The original questions of each
 
 
 <b>Codes for Problem sets</b>
-<ul>
+<ul style="line-height: 0.7">
     <li> Week 0 Functions, Variables:
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/einstein.py" target="_blank">einstein</a> |
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/indoor.py" target="_blank">indoor voice</a> |
