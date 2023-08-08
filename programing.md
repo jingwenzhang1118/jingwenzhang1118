@@ -11,6 +11,7 @@ ul {
     display: grid;
     align-items: left-start;
     padding-left: 20px;
+    line-heigt: 1;
 }
 
 li {
@@ -19,68 +20,9 @@ li {
 }
 
 /*
-ul {
-    display: table;
-    margin: 0;
-    padding: 0
-}
-ul li {
-    margin: 0;
-    padding: 0; 
-    list-style: none;
-    display: table-row;
-}
-li::before{
-    content: "•";
-    display: table-cell;
-    padding-right: 1em;
-    text-align: left;
-}
-
-
-ul {
-    list-style: none;
-    text-indent: -24px;
-    margin-left: 24px;
-}
-
-ul {
-  list-style: none;
-  padding: 20;
-  margin:0;
-}
-
-
-li {
-  padding-left: 2em; 
-  text-indent: -1.7em;
-}
-
-li::before {
-  content: "•";
-
-}
-ul {
-        display: table;
-        margin: 0px;
-        padding: 0px;
-      }
-      li {
-        list-style: none;
-        display: table-row;
-      }
-      li::before {
-        content: ".";
-        display: table-cell;
-        text-align: left;
-        padding-right: 1em;
-      }
-*/
-
 .cs50-list {
     list-style-position: inside
-}
-
+}*/
 </style>
 
 Progamming skills certainly increases the possibities and flexibilities in solving data-related tasks. I have benefited significanly from the following open courses. These courses are intriguing clearly explained and well designed. One valuable asset of these courses are the problem sets. The difficulty of these problmes, espeically the CS50 series offered by Harvard University start at the entry level but quickly escalate by weeks. 
@@ -98,7 +40,7 @@ CS50 is a highly evaluated computer science course that teaches languates C, pyt
 Here I include the codes I use to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
 
-<p style="line-height: 0.8"><b>Codes for Problem sets</b>
+<p><b>Codes for Problem sets</b>
 <ul>
     <li> Week 1 Intro to C:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
@@ -184,7 +126,7 @@ My codes for the *Problem sets* are linked below. The original questions of each
 
 
 <b>Codes for Problem sets</b>
-<ul style="line-height: 0.7">
+<ul>
     <li> Week 0 Functions, Variables:
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/einstein.py" target="_blank">einstein</a> |
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/indoor.py" target="_blank">indoor voice</a> |
