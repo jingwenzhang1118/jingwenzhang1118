@@ -73,8 +73,8 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 
 
-<div style="height:100px;border:0px solid; background-color:whitesmoke; opacity: .5; overflow:auto;">
-    <p><b>Codes for Problem sets<b>
+<div style="height:200px;border:0px solid; background-color:whitesmoke; opacity: .25; overflow:auto;">
+    <p style="color:black"><b>Codes for Problem sets<b>
         <ul>
             <li> Week 1 Intro to C:
             <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
