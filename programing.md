@@ -12,7 +12,8 @@ ul {
 ul li {
     margin: 0;
     padding: 0; 
-    list-style: none
+    list-style: none;
+    display: table-row;
 }
 li::before{
     content: "•";
@@ -65,9 +66,8 @@ CS50 is a highly evaluated computer science course that teaches languates C, pyt
 Here I include the codes I use to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
 
-
-<ul class="cs50-list">
 <b>Codes for Problem sets</b>
+<ul class="cs50-list">
     <li> Week 1 Intro to C:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1" target="_blank"> credit</a> |  
@@ -151,9 +151,8 @@ CS50 Programming with Python (CS50P) is another open course offered by Harvard U
 My codes for the *Problem sets* are linked below. The original questions of each topic/week can be found on <a href="https://cs50.harvard.edu/python/2022/" target="_blank">CS50P's website</a>.
 
 
-
-<ul>
 <b>Codes for Problem sets</b>
+<ul>
     <li> Week 0 Functions, Variables:
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/einstein.py" target="_blank">einstein</a> |
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/indoor.py" target="_blank">indoor voice</a> |
