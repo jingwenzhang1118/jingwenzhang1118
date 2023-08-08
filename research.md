@@ -8,12 +8,12 @@ title: "Research projects"
 <style>
 .container {
     width: 100%;
-    height: 200px;
-    margin: 0 auto;
+    height: 100px;
 }
-.container img.wide {
+.container_img {
     width: 100%;
     height: 100%;
+    object-fit: fill;
 }
 </style>
 
