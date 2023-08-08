@@ -28,7 +28,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 
 
-<div style="height:50px;border:0px solid; background-color:whitesmoke overflow:auto;">
+<div style="height:50px;border:0px solid; background-color:whitesmoke; overflow:auto;">
     <h3>Codes for Problem sets</h3>
     <p>
         <ul>
