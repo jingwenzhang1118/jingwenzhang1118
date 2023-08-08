@@ -5,7 +5,12 @@ title: "Programing practices"
 
 ---
 
-
+<style>
+.cs50-list {
+    padding-left: 30px;
+    list-style-position: inside
+}
+</style>
 
 
 ## CS50 Introduction to Computer Science
@@ -18,7 +23,7 @@ Here I include the codes I use to solve the *Problem sets* of each topic. The or
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
 
 
-<ul>
+<ul class="cs50-list">
 <b>Codes for Problem sets</b>
     <li> Week 1 Intro to C:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
