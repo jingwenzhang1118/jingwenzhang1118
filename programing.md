@@ -18,8 +18,8 @@ Here I include the codes I use to solve the *Problem sets* of each topic. The or
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
 
 
-
-**Codes for Problem sets**
+<div>
+<b>Codes for Problem sets</b>
 <ul stype="margin-left: 100px">
     <li> Intro to C Week 1 :
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
@@ -46,28 +46,22 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week4/pset4/reverse.c" target="_blank">reverse</a> 
     </li>
     <li> Week 5 Data structures:
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> 
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week5/pset5/dictionary.c" target="_blank">dictionary</a> 
     </li>
     <li> Week 6 Python:
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> 
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week6/pset6/credit-cash.py" target="_blank">credit-cash</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week6/pset6/dna.py" target="_blank">dna</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week6/pset6/hello.py" target="_blank">hello</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week6/pset6/mario-less.py" target="_blank">mario-less</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week6/pset6/mario-more.py" target="_blank">mario-more</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week6/pset6/readability.py" target="_blank">readability</a> 
     </li>
     <li> Week 7 SQL:
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> 
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week7/pset7/fiftyville-log.sql" target="_blank">fiftyville</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week7/pset7/movies.sql" target="_blank">movies</a> 
     </li>
 </ul>
-
+</div>
 
 <!--Scroll boxes
 <div style="height:200px;border:0px solid; background-color:whitesmoke; opacity: .25; overflow:auto;">
