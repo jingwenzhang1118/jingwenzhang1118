@@ -30,7 +30,7 @@ li {
 li::before {
   content: "•  ";
 }
-*/
+
 .cs50-list {
     list-style-position: inside
 }
