@@ -6,29 +6,29 @@ title: "Programing practices"
 ---
 
 <style>
-
+/*
 ul {
     list-style: none;
     text-indent: -24px;
     margin-left: 24px;
 }
+*/
 
 
-/*
 ul {
-  list-style-position:inside
-  padding: 0
-  margin:0
+  list-style: none;
+  padding: 0;
+  margin:0;
 }
 
 
 li {
-  padding-left: 20px; 
-  text-indent: -20px;
+  padding-left: 2em; 
+  text-indent: -1.7em;
 }
 
 li::before {
-  content: "  ";
+  content: "•  ";
 }
 */
 .cs50-list {
@@ -45,7 +45,7 @@ One important lesson I learned from my programming experiences is that **do not 
 
 ## CS50 Introduction to Computer Science
 
-<img style="border: 0px solid; width: 180px; height: 220px; float: left; padding:0px 30px 280px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 180px; float: left; padding:0px 30px 320px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
 CS50 is a highly evaluated computer science course that teaches languates C, python and SQL and focuses on topics like computational thinking, abstraction, algorithms, data structures, and computer science more generally. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. 
 
 Here I include the codes I use to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
@@ -199,7 +199,7 @@ My codes for the *Problem sets* are linked below. The original questions of each
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week8/shirtificate/shirtificate.py" target="_blank">CS50 shirtificate</a> |
         <a href="https://github.com/jingwenzhang1118/cs50-Python/tree/main/CS50p/cs50p_week8/seasons" target="_blank">seasons of love</a> 
     </li>
-
+</ul>
 <br>
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
