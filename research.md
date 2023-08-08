@@ -11,6 +11,9 @@ Motivated by practical issues, my research focuses broadly on managerial account
 I leverage empirical evidence to investigate my research questions. I collect, organize and analyze field data gathered from invididual companies, as well as public data collected through public databases and web scraping. 
 <br>
 <br>
+
+![bulb](/images/Research-Spotlight.jpeg)
+
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
 ## Charitable CEOs
