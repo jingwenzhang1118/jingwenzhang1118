@@ -25,7 +25,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <br>
 
 <div class="container">
-<img src="/images/investigative-research.jpeg">
+<img class="container_img" src="/images/investigative-research.jpeg">
 </div>
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
