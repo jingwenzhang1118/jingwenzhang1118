@@ -6,8 +6,16 @@ title: "Programing practices"
 ---
 
 <style>
+
+li {
+    float: left;
+}
+
+/*
 ul {
     display: table;
+    margin: 0;
+    padding: 0
 }
 ul li {
     margin: 0;
@@ -19,10 +27,10 @@ li::before{
     content: "•";
     display: table-cell;
     padding-right: 1em;
-    text-align: right;
+    text-align: left;
 }
 
-/*
+
 ul {
     list-style: none;
     text-indent: -24px;
@@ -45,10 +53,28 @@ li::before {
   content: "•";
 
 }
+ul {
+        display: table;
+        margin: 0px;
+        padding: 0px;
+      }
+      li {
+        list-style: none;
+        display: table-row;
+      }
+      li::before {
+        content: ".";
+        display: table-cell;
+        text-align: left;
+        padding-right: 1em;
+      }
 */
+
 .cs50-list {
     list-style-position: inside
 }
+
+
 </style>
 
 Progamming skills certainly increases the possibities and flexibilities in solving data-related tasks. I have benefited significanly from the following open courses. These courses are intriguing clearly explained and well designed. One valuable asset of these courses are the problem sets. The difficulty of these problmes, espeically the CS50 series offered by Harvard University start at the entry level but quickly escalate by weeks. 
