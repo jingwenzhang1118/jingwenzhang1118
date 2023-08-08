@@ -12,6 +12,8 @@ title: "Programing practices"
 </style>
 
 
+
+
 ## CS50 Introduction to Computer Science
 
 <img style="border: 0px solid; width: 180px; height: 220px; float: left; padding:0px 30px 280px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
@@ -65,6 +67,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 </ul>
 
 <br>
+
 <!--Scroll boxes
 <div style="height:200px;border:0px solid; background-color:whitesmoke; opacity: .25; overflow:auto;">
     <p style="color:black"><b>Codes for Problem sets<b>
@@ -93,6 +96,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
     </p>
 </div>
 -->
+
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
 
