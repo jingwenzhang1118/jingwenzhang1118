@@ -11,12 +11,11 @@ ul {
     display: grid;
     align-items: left-start;
     padding-left: 20px;
-    line-heigt: 1;
+    line-height: 1;
 }
 
 li {
-    padding-top: 0px;
-    padding-bottom: 0px;
+    margin-bottom: 1px;
 }
 
 /*
