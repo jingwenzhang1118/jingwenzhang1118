@@ -9,6 +9,7 @@ title: "Programing practices"
 
 ul {
   list-style: none
+  list-style-position:inside
   padding: 0
   margin:0
 }
@@ -19,7 +20,7 @@ li {
 }
 
 li::before {
-  content: "•  ";
+  content: "  ";
 }
 
 .cs50-list {
