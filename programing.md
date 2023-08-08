@@ -7,7 +7,7 @@ title: "Programing practices"
 
 <style>
 
-li {
+ul li {
     float: left;
 }
 
@@ -73,7 +73,6 @@ ul {
 .cs50-list {
     list-style-position: inside
 }
-
 
 </style>
 
