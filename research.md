@@ -7,8 +7,9 @@ title: "Research projects"
 
 <style>
 .container {
-    width: 100%;
+    width: 80%;
     height: 200px;
+    text-align: center;
 }
 .container_img {
     width: 100%;
