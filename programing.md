@@ -105,8 +105,8 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 
 ## CS50 Programming with Python
-
-
+<img style="border: 0px solid; width: 180px; height: 220px; float: right; padding:0px 0px 0px 30px" src="/images/cs50p.webp" alt="" class="inline-block">
+CS50 Python
 
 ## CS50 Artificial Intelligence with Python
 
