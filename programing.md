@@ -8,8 +8,9 @@ title: "Programing practices"
 <style>
 
 ul {
-display: grid;
-align-items: left-start;
+    display: grid;
+    align-items: left-start;
+    padding-left: 15px;
 }
 
 
@@ -94,7 +95,7 @@ Here I include the codes I use to solve the *Problem sets* of each topic. The or
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
 
 <b>Codes for Problem sets</b>
-<ul class="cs50-list">
+<ul>
     <li> Week 1 Intro to C:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1" target="_blank"> credit</a> |  
