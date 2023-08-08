@@ -33,13 +33,13 @@ One important lesson I learned from my programming experiences is that **do not 
 
 ## CS50 Introduction to Computer Science
 
-<img style="border: 0px solid; width: 180px; height: 180px; float: left; padding:0px 30px 320px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 160px; float: left; padding:0px 30px 320px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
 CS50 is a highly evaluated computer science course that teaches languates C, python and SQL and focuses on topics like computational thinking, abstraction, algorithms, data structures, and computer science more generally. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. 
 
 Here I include the codes I use to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
 
-<p><b>Codes for Problem sets</b>
+<p style="line-height: 1"><b>Codes for Problem sets</b></p>
 <ul>
     <li> Week 1 Intro to C:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
@@ -81,7 +81,6 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week7/pset7/movies.sql" target="_blank">movies</a> 
     </li>
 </ul>
-</p>
 <br>
 
 <!--Scroll boxes
@@ -118,13 +117,13 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 ## CS50 Programming with Python
 
-<img style="border: 0px solid; width: 180px; height: 100px; float:left; padding:0px 30px 350px 0px" src="/images/cs50p.webp" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 350px 0px" src="/images/cs50p.webp" alt="" class="inline-block">
 CS50 Programming with Python (CS50P) is another open course offered by Harvard University. It covers topics such as functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. It also teaches how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files.
 
 My codes for the *Problem sets* are linked below. The original questions of each topic/week can be found on <a href="https://cs50.harvard.edu/python/2022/" target="_blank">CS50P's website</a>.
 
 
-<b>Codes for Problem sets</b>
+<p style="line-height: 1"><b>Codes for Problem sets</b></p>
 <ul>
     <li> Week 0 Functions, Variables:
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/einstein.py" target="_blank">einstein</a> |
