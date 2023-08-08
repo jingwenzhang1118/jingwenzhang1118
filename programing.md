@@ -15,7 +15,7 @@ ul {
 
 li {
     padding-top: 0;
-    padding-bottom: 1px;
+    padding-bottom: 0px;
 }
 
 /*
@@ -98,7 +98,7 @@ CS50 is a highly evaluated computer science course that teaches languates C, pyt
 Here I include the codes I use to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
 
-<p style="line-height: 1.15"><b>Codes for Problem sets</b>
+<p style="line-height: 0.8"><b>Codes for Problem sets</b>
 <ul>
     <li> Week 1 Intro to C:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
@@ -183,7 +183,7 @@ CS50 Programming with Python (CS50P) is another open course offered by Harvard U
 My codes for the *Problem sets* are linked below. The original questions of each topic/week can be found on <a href="https://cs50.harvard.edu/python/2022/" target="_blank">CS50P's website</a>.
 
 
-<p style="line-height: 1.15"><b>Codes for Problem sets</b></p>
+<b>Codes for Problem sets</b>
 <ul>
     <li> Week 0 Functions, Variables:
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/einstein.py" target="_blank">einstein</a> |
