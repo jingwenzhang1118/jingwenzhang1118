@@ -5,6 +5,8 @@ title: "Programing practices"
 
 ---
 
+
+
 ## CS50 Introduction to Computer Science
 
 <img style="border: 0px solid; width: 200px; height: 200px; float: left; padding:0px 30px 100px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
@@ -15,7 +17,16 @@ Here I include the codes I use to solve the *Problem sets* of each topic. The or
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found [here](https://github.com/jingwenzhang1118/CS50_complete/tree/main). 
 
 
-Week 1-Intro to C:
-    [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| [credit](https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1) \| [mario-less](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-less.c) \| [mario-more](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-more.c)
+- **Week 1-Intro to C**:
+    [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| 
+    [credit](https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1) \| 
+    [mario-less](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-less.c) \| 
+    [mario-more](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/mario-more.c)
 
-    
+
+- Week 1-Intro to C:
+    [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| 
+
+
+- *Week 1-Intro to C*:
+    [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| 
