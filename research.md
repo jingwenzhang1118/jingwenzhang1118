@@ -8,7 +8,7 @@ title: "Research projects"
 <style>
 .container {
     width: 100%;
-    height: 100px;
+    height: 200px;
 }
 .container_img {
     width: 100%;
