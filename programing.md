@@ -9,7 +9,7 @@ title: "Programing practices"
 
 ## CS50 Introduction to Computer Science
 
-<img style="border: 0px solid; width: 250px; height: 150px; float: left; padding:0px 30px 0px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
+<img style="border: 0px solid; width: 100px; height: 100px; float: left; padding:0px 30px 0px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
 CS50 is a highly evaluated computer science course that teaches languates C, python and SQL and focuses on topics like computational thinking, abstraction, algorithms, data structures, and computer science more generally. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. 
 <br>
 
