@@ -18,9 +18,8 @@ Here I include the codes I use to solve the *Problem sets* of each topic. The or
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
 
 
-<div>
+<ul>
 <b>Codes for Problem sets</b>
-<ul stype="padding-left: 300px">
     <li> Week 1 Intro to C:
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1" target="_blank"> credit</a> |  
@@ -61,7 +60,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week7/pset7/movies.sql" target="_blank">movies</a> 
     </li>
 </ul>
-</div>
+
 
 <!--Scroll boxes
 <div style="height:200px;border:0px solid; background-color:whitesmoke; opacity: .25; overflow:auto;">
