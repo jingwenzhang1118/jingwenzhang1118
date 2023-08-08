@@ -11,7 +11,7 @@ ul {
     display: grid;
     align-items: left-start;
     padding-left: 20px;
-    margin-top: -10px;
+    margin-top: -15px;
     line-height: 1.25;
 }
 
@@ -122,6 +122,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 CS50 Programming with Python (CS50P) is another open course offered by Harvard University. It covers topics such as functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. It also teaches how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files.
 
 My codes for the *Problem sets* are linked below. The original questions of each topic/week can be found on <a href="https://cs50.harvard.edu/python/2022/" target="_blank">CS50P's website</a>.
+<br>
 
 
 <b>Codes for Problem sets</b>
