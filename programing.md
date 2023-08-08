@@ -14,6 +14,7 @@ ul {
 }
 
 li {
+    padding-top: 0;
     padding-bottom: 1px;
 }
 
