@@ -9,7 +9,7 @@ title: "Research projects"
 .container {
     width: 80%;
     height: 200px;
-    text-align: center;
+    margin: 0 auto;
 }
 .container_img {
     width: 100%;
