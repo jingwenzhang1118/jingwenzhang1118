@@ -6,18 +6,23 @@ title: "Programing practices"
 ---
 
 <style>
+
+ul li {
+    list-style-position: outside;
+    margin-left: 40px; 
+}
+
+
 /*
 ul {
     list-style: none;
     text-indent: -24px;
     margin-left: 24px;
 }
-*/
-
 
 ul {
   list-style: none;
-  padding: 0;
+  padding: 20;
   margin:0;
 }
 
@@ -28,9 +33,10 @@ li {
 }
 
 li::before {
-  content: "•  ";
-}
+  content: "•";
 
+}
+*/
 .cs50-list {
     list-style-position: inside
 }
