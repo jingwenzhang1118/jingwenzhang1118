@@ -7,7 +7,7 @@ title: "Programing practices"
 
 ## CS50 Introduction to Computer Science
 
-<img style="border: 0px solid ; width: 200px; height: 300px; float: left; padding-right:30px" src="images/cs50_logo.png" alt="" class="inline-block">
+<img style="border: 0px solid ; width: 200px; height: 300px; float: left; padding-right:30px" src="jingwenzhang1118/jingwenzhang1118/images/cs50_logo.png" alt="" class="inline-block">
 CS50 is a computer science course taught, teaching students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security and software engineering. Languages include C, Python and SQL, etc. 
 
 
