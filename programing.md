@@ -8,15 +8,12 @@ title: "Programing practices"
 <style>
 
 ul {
-  list-style: none;
   list-style-position: inside
-  padding: 0;
-  margin: 0;
 }
 
 li {
-  padding-left: 1em; 
-  text-indent: -.7em;
+  padding-left: 6px; 
+  text-indent: 6px;
 }
 
 li::before {
@@ -195,14 +192,6 @@ My codes for the *Problem sets* are linked below. The original questions of each
 <br>
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
-
-
-
-
-
-
-
-
 
 
 ## CS50 Artificial Intelligence with Python
