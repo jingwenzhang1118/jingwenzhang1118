@@ -20,7 +20,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 
 **Codes for Problem sets**
-<ul>
+<ul><ul>
     <li> Intro to C Week 1 :
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c" target="_blank">cash</a> | 
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1" target="_blank"> credit</a> |  
@@ -35,18 +35,15 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
         <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week2/pset2/wordle.c" target="_blank">wordle</a> 
     </li>
     <li> Week 3 Algorithms:
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> 
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week3/pset3/plurality.c" target="_blank">plurality</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week3/pset3/runoff.c" target="_blank">runoff</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week3/pset3/tideman.c" target="_blank">tideman</a> 
     </li>
     <li> Week 4 Memory:
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> |
-        <a href="" target="_blank"> </a> 
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week4/pset4/filter-less-helpers.c" target="_blank">filter-less</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week4/pset4/filter-more-helpers.c" target="_blank">filter-more</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week4/pset4/recover.c" target="_blank">recover</a> |
+        <a href="https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week4/pset4/reverse.c" target="_blank">reverse</a> 
     </li>
     <li> Week 5 Data structures:
         <a href="" target="_blank"> </a> |
@@ -69,7 +66,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
         <a href="" target="_blank"> </a> |
         <a href="" target="_blank"> </a> 
     </li>
-</ul>
+</ul></ul>
 
 
 <!--Scroll boxes
