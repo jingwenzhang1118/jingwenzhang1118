@@ -6,12 +6,20 @@ title: "Programing practices"
 ---
 
 <style>
-
-ul li {
-    list-style-position: outside;
-    margin-left: 40px; 
+ul {
+    display: table;
 }
-
+ul li {
+    margin: 0;
+    padding: 0; 
+    list-style: none
+}
+li::before{
+    content: "•";
+    display: table-cell;
+    padding-right: 1em;
+    text-align: right;
+}
 
 /*
 ul {
