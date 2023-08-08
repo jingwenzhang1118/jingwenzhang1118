@@ -11,11 +11,17 @@ title: "Research projects"
 <img style="opacity: .5" src="/images/investigative-research.jpeg">
 
 
+
+
 Motivated by practical issues, my research focuses broadly on managerial accounting, corporate governance and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers. The goal is to balance short-term strategic behaviors and long-term goals of organizations.
 
 I leverage empirical evidence to investigate my research questions. I collect, organize and analyze field data gathered from invididual companies, as well as public data collected through public databases and web scraping. 
 <br>
 <br>
+
+<div style="text-align: center;">
+<img width="400" src="/images/investigative-research.jpeg">
+</div>
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
