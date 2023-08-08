@@ -10,9 +10,12 @@ title: "Programing practices"
 ul {
     display: grid;
     align-items: left-start;
-    padding-left: 15px;
+    padding-left: 20px;
 }
 
+li {
+    padding-bottom: 5px
+}
 
 /*
 ul {
