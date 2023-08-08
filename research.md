@@ -28,7 +28,6 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 </div>
 
 <br>
-<br>
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
 ## Charitable CEOs
@@ -100,7 +99,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 
 <details open>
     <summary style="color: #71797E">[Details]</summary>
-    <p>Being the connection between upper management and front-line employees, middle-level managers hold significant importance for firms. This project considers two distinct characteristics of middle-level managers: conformity and originality, both of which are valuable to firms. Conformative managers are willing to comply with established rules, reducing the conflicts in the workforce and smoothing the cooperation among employees. On the other hand, original managers are inclined to explore new ideas, proving beneficial for tackling challenging tasks that cannot be solved using existing methods. We find that superiors know their subordiantes sufficiently and adapt their controls accordingly. Conformative managers discuss more frequently with superiors and these talks are mostly initiated by the managers themselves. These discussions assure comformative managers that their decisions align with the firm's objectives. In contrast, original managers are assigned more complicated tasks and also have more discussions with superiors but the discussions are often requested by superiors. These controls mitigate the chances that original managers take risky steps and allow supeiors to closely follow the project progress. The findings suggest that controls become more effective by consiering the characteristics of middle-level managers.
+    <p>Being the connection between upper management and front-line employees, middle-level managers hold significant importance for firms. This project considers two distinct characteristics of middle-level managers: conformity and originality, both of which are valuable to firms. Conformative managers are willing to comply with established rules, reducing the conflicts in the workforce and smoothing the cooperation among employees. On the other hand, original managers are inclined to explore new ideas, proving benefits for tackling challenging tasks that cannot be solved using existing methods. We find that superiors know their subordiantes sufficiently and adapt their controls accordingly. Conformative managers discuss more frequently with superiors and these talks are mostly initiated by the managers themselves. These discussions assure comformative managers that their decisions align with the firm's objectives. In contrast, original managers are assigned more complicated tasks and also have more discussions with superiors but the discussions are often requested by superiors. These controls mitigate the chances that original managers take risky steps and allow supeiors to closely follow the project progress. The findings suggest that controls can be more effective by consiering the characteristics of middle-level managers.
     </p>
 </details>
 <br>

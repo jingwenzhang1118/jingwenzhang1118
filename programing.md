@@ -105,8 +105,91 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 
 ## CS50 Programming with Python
-<img style="border: 0px solid; width: 180px; height: 220px; float: right; padding:0px 0px 0px 30px" src="/images/cs50p.webp" alt="" class="inline-block">
-CS50 Python
+
+<img style="border: 0px solid; width: 180px; height: 220px; float:left; padding:0px 30px 200px 0px" src="/images/cs50p.webp" alt="" class="inline-block">
+CS50 Programming with Python (CS50P) is another open course offered by Harvard University. It covers topics such as functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. It also teaches how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files.
+
+My codes for the *Problem sets* are linked below. The original questions of each topic/week can be found on <a href="https://cs50.harvard.edu/python/2022/" target="_blank">CS50P's website</a>.
+
+
+
+<ul class="cs50-list">
+<b>Codes for Problem sets</b>
+    <li> Week 0 Functions, Variables:
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/einstein.py" target="_blank">einstein</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/indoor.py" target="_blank">indoor voice</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/faces.py" target="_blank">making faces</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/playback.py" target="_blank">playback speed</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week0/tip/tip.py" target="_blank">tip calculator</a> 
+    </li>
+    <li> Week 1 Conditions:
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week1/deep/deep.py" target="_blank">deep thought</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week1/bank/bank.py" target="_blank">federal bank</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week1/extensions/extensions.py" target="_blank">file extensions</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week1/interpreter/interpreter.py" target="_blank">math interpreter</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week1/meal/meal.py" target="_blank">meal time</a> 
+    </li>
+    <li> Week 2 Loops:
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+    </li>
+    <li> Week 3 Exceptions:
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+    </li>
+    <li> Week 4 Libraries:
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+    </li>
+    <li> Week 5 Unit Tests:
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+    </li>
+    <li> Week 6 File I/O:
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+    </li>
+    <li> Week 7 Regular Expressions:
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+    </li>
+    <li> Week 8 Object-Oriented Programming:
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+        <a href="" target="_blank"></a> |
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## CS50 Artificial Intelligence with Python
 
