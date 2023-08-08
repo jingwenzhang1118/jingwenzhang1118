@@ -7,7 +7,7 @@ title: "Research projects"
 
 <style>
 .container {
-    width: 80%;
+    width: 60%;
     height: 200px;
     margin: 0 auto;
 }
@@ -27,6 +27,10 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 
 <div class="container">
 <img class="container_img" src="/images/investigative-research.jpeg">
+</div>
+
+<div class="container">
+<img class="container_img" src="/images/Research-Spotlight.jpeg">
 </div>
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
