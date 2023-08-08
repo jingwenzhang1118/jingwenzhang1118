@@ -18,6 +18,7 @@ Week 1:
     - Problem Sets: [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| [credit](https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1) \|
 
 
+<br>
 
 <img style="border: 0px solid; width: 200px; height: 200px; float: left; padding:0px 100px 0px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
 CS50 is a highly evaluated computer science course that teaches how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security and software engineering. Languages include C, Python and SQL, etc. 
@@ -29,6 +30,7 @@ Here I include the codes I used to solve the *Problem sets* of each topic. The o
 Week 1: 
     - Problem Sets: [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| [credit](https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1) \|
 
+<br>
 
 
 <img style="border: 0px solid; width: 200px; height: 200px; float: left; padding:0px 100px 100px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
@@ -41,7 +43,7 @@ Here I include the codes I used to solve the *Problem sets* of each topic. The o
 Week 1: 
     - Problem Sets: [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| [credit](https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1) \|
 
-
+<br>
 
 <img style="border: 0px solid; width: 200px; height: 200px; float: left; padding-right: 100px padding-bottom:100px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
 CS50 is a highly evaluated computer science course that teaches how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security and software engineering. Languages include C, Python and SQL, etc. 
@@ -52,3 +54,7 @@ Here I include the codes I used to solve the *Problem sets* of each topic. The o
 
 Week 1: 
     - Problem Sets: [cash](https://github.com/jingwenzhang1118/CS50_complete/blob/main/cs50-week1/pset1/cash.c) \| [credit](https://github.com/jingwenzhang1118/CS50_complete/blob/6194761254b259ccea4340ba0af65fd22868455c/cs50-week1/pset1/credit.c#L1) \|
+
+
+
+
