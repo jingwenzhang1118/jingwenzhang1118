@@ -33,6 +33,10 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <img class="container_img" src="/images/Research-Spotlight.jpeg">
 </div>
 
+<div class="container">
+<img class="container_img" src="/images/Research-Image.jpg">
+</div>
+
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
 ## Charitable CEOs
