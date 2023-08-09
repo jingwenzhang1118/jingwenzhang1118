@@ -27,7 +27,7 @@ li {
 
 Progamming skills certainly increases the possibities and flexibilities in solving data-related tasks. I have benefited significanly from the following courses. These courses are intriguing, clearly explained and well designed. One valuable asset of these courses are the problem sets. The difficulty of these problmes, espeically the CS50 series offered by Harvard University, start at the entry level but quickly escalate by weeks. 
 
-My codes for solving the problem sets of the courses are shared below. However, to gain the most benefits, it is highly recommended to develop the codes on your own first. One important lesson I learned from my programming experiences is that **using the resources wisely and do not lose patience and confidence because all the problems can be solved in the programming world**. 
+My codes for solving the problem sets of the courses are shared below. However, to gain the most benefits, it is highly recommended to develop the codes on your own first. One important lesson I learned from my programming experiences is: **use the resources wisely and do not lose patience and confidence because all the problems can be solved in the programming world**. 
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
