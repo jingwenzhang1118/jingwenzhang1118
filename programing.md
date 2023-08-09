@@ -34,7 +34,7 @@ One important lesson I learned from my programming experiences is that **do not 
 
 ## CS50 Introduction to Computer Science
 
-<img style="border: 0px solid; width: 180px; height: 180px; float: left; padding:0px 30px 300px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 180px; float: left; padding:0px 30px 200px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
 CS50 is a highly evaluated computer science course that teaches languates C, python and SQL and focuses on topics like computational thinking, abstraction, algorithms, data structures, and computer science more generally. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. 
 
 Here I include the codes I use to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
@@ -118,7 +118,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 ## CS50 Programming with Python
 
-<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 300px 0px" src="/images/cs50p.webp" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 200px 0px" src="/images/cs50p.webp" alt="" class="inline-block">
 CS50 Programming with Python (CS50P) is another open course offered by Harvard University. It covers topics such as functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. It also teaches how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files.
 
 My codes for the *Problem sets* are linked below. The original questions of each topic/week can be found on <a href="https://cs50.harvard.edu/python/2022/" target="_blank">CS50P's website</a>.
@@ -187,14 +187,13 @@ My codes for the *Problem sets* are linked below. The original questions of each
         <a href="https://github.com/jingwenzhang1118/cs50-Python/tree/main/CS50p/cs50p_week8/seasons" target="_blank">seasons of love</a> 
     </li>
 </ul>
-<br>
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
 
 ## CS50 Artificial Intelligence with Python
 
-<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 300px 0px" src="/images/CS50AI_pll.png" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 200px 0px" src="/images/CS50AI_pll.png" alt="" class="inline-block">
 This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. The hands-on projects help to gain exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning, and other topics in artificial intelligence and machine learning. 
 
 My codes for the *weekly projects* are shared here. The original questions of each project can be found on <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">CS50AI's website</a>.
