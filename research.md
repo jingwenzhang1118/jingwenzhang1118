@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: "Research projects"
+title: "Research papers"
 
 ---
 
