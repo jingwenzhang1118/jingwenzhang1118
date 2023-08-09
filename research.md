@@ -45,7 +45,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <br>
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
-## Human capital investment and Supporting underperforming Employees
+## Human capital investment and supporting underperforming employees
 <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">Should firms give up on their underperforming employees? The answer is a resounding NO. A better strategy is to provide human capital investment to those underperforming employees who still have the potential for improvement.
 </div>
 
@@ -75,7 +75,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <br>
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
-## Knowledge Exchange and spillover effects through headquarter site visits
+## Knowledge exchange and spillover effects through headquarter site visits
  <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify"> Headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers they visited. But what is often overlooked is that unit managers who do not receive visits from headquarter managers also beneift from these site visits through knowledge spillovers among peers.
  </div>
 
