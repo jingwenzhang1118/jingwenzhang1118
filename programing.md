@@ -34,7 +34,7 @@ One important lesson I learned from my programming experiences is that **do not 
 
 ## CS50 Introduction to Computer Science
 
-<img style="border: 0px solid; width: 180px; height: 160px; float: left; padding:0px 30px 320px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 180px; float: left; padding:0px 30px 300px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
 CS50 is a highly evaluated computer science course that teaches languates C, python and SQL and focuses on topics like computational thinking, abstraction, algorithms, data structures, and computer science more generally. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. 
 
 Here I include the codes I use to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
@@ -194,5 +194,33 @@ My codes for the *Problem sets* are linked below. The original questions of each
 
 ## CS50 Artificial Intelligence with Python
 
+<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 350px 0px" src="/images/CS50AI_pll.png" alt="" class="inline-block">
+This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. The hands-on projects help to gain exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning, and other topics in artificial intelligence and machine learning. 
 
+My codes for the weekly projects are shared here. The original questions of each project can be found on <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">CS50AI's website</a>.
+<br>
 
+<b>Codes for weekly projects</b>
+<ul>
+    <li>Week 0 Search:
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week0/degrees.py" target="_blank">degrees</a> |
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week0/tictactoe.py" target="_blank">tic-tac-toe</a> 
+    </li>
+    <li>Week 1 Knowledge:
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week1/puzzle.py" target="_blank">knights</a> |
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week1/minesweeper.py" target="_blank">minesweeper</a> 
+    </li><li>Week 2 Uncertainty:
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week2/heredity.py" target="_blank">heredity</a> |
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week2/pagerank.py" target="_blank">pagebank</a> 
+    </li><li>Week 3 Optimization:
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week3/crossword-generate.py" target="_blank">crossword</a> 
+    </li><li>Week 4 Learning:
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week4/nim.py" target="_blank">nim</a> |
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week4/shopping.py" target="_blank">shopping</a> 
+    </li><li>Week 5 Neural Networks:
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week5/traffic.py" target="_blank">traffic</a> 
+    </li><li>Week 6 Language:
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week6/parser.py" target="_blank">parser</a> |
+    <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week6/questions.py" target="_blank">questions</a> 
+    </li>
+</ul>
