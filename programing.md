@@ -226,5 +226,5 @@ My codes for the *weekly projects* are shared here. The original questions of ea
 
 ## Machine learning Specialization
 
-<img style="border: 0px solid; width: 240px; height: 180px; float:right; padding:0px 0px 0px 0px" src="/images/ML-Andrew Ng.png" alt="" class="inline-block">
+<img style="border: 0px solid; width: 320px; height: 180px; float:right; padding:0px 0px 0px 0px" src="/images/ML-Andrew Ng.png" alt="" class="inline-block">
 As one of the millions of followers, I think this machine learning course taught by Andrew Ng is one of the best machine learning courses for beginners. The course has been updated recently and cotains three sub-courses now: *Supervised Machine Learning*, *Advanced Learning Algorithms* and *Unsupervised learning*. These courses teach you the theory behind the machine learning models and how to bild machine learning models using *Numpy* and *sci-kit learn* in Python. The quizzes and course work are not very difficult but definitely help to understand the theories and improve coding skills. For more information, please check the <a href="https://www.coursera.org/specializations/machine-learning-introduction#courses" target="_blank">course's information on Coursera</a>. 
