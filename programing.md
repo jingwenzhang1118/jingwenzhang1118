@@ -118,7 +118,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 
 ## CS50 Programming with Python
 
-<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 350px 0px" src="/images/cs50p.webp" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 300px 0px" src="/images/cs50p.webp" alt="" class="inline-block">
 CS50 Programming with Python (CS50P) is another open course offered by Harvard University. It covers topics such as functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. It also teaches how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files.
 
 My codes for the *Problem sets* are linked below. The original questions of each topic/week can be found on <a href="https://cs50.harvard.edu/python/2022/" target="_blank">CS50P's website</a>.
@@ -143,16 +143,16 @@ My codes for the *Problem sets* are linked below. The original questions of each
     </li>
     <li> Week 2 Loops:
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/camel/camel.py" target="_blank">camelCase</a> |
-        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/coke/coke.py" target="_blank">Coke Machine</a> |
-        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/nutrition/nutrition.py" target="_blank">Nutrition Facts</a> |
-        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/plates/plates.py" target="_blank">Setting up twttr</a> |
-        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/plates/plates.py" target="_blank">Vanity Plates</a> 
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/coke/coke.py" target="_blank">coke machine</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/nutrition/nutrition.py" target="_blank">nutrition facts</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/plates/plates.py" target="_blank">setting up twttr</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week2/plates/plates.py" target="_blank">vanity plates</a> 
     </li>
     <li> Week 3 Exceptions:
-        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week3/fuel/fuel.py" target="_blank">Fuel Gauge</a> |
-        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week3/taqueria/taqueria.py" target="_blank">Felipe's Taqueria</a> |
-        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week3/grocery/grocery.py" target="_blank">Grocery List</a> |
-        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week3/outdated/outdated.py" target="_blank">Outdated</a> 
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week3/fuel/fuel.py" target="_blank">fuel gauge</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week3/taqueria/taqueria.py" target="_blank">felipe's taqueria</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week3/grocery/grocery.py" target="_blank">grocery list</a> |
+        <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week3/outdated/outdated.py" target="_blank">qutdated</a> 
     </li>
     <li> Week 4 Libraries:
         <a href="https://github.com/jingwenzhang1118/cs50-Python/blob/main/CS50p/cs50p_week4/adieu/adieu.py" target="_blank">adieu</a> |
@@ -194,10 +194,10 @@ My codes for the *Problem sets* are linked below. The original questions of each
 
 ## CS50 Artificial Intelligence with Python
 
-<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 350px 0px" src="/images/CS50AI_pll.png" alt="" class="inline-block">
+<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 300px 0px" src="/images/CS50AI_pll.png" alt="" class="inline-block">
 This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. The hands-on projects help to gain exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning, and other topics in artificial intelligence and machine learning. 
 
-My codes for the weekly projects are shared here. The original questions of each project can be found on <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">CS50AI's website</a>.
+My codes for the *weekly projects* are shared here. The original questions of each project can be found on <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">CS50AI's website</a>.
 <br>
 
 <b>Codes for weekly projects</b>
