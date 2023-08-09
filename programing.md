@@ -27,7 +27,7 @@ li {
 
 Progamming skills certainly increases the possibities and flexibilities in solving data-related tasks. I have benefited significanly from the following courses. These courses are intriguing, clearly explained and well designed. One valuable asset of these courses are the problem sets. The difficulty of these problmes, espeically the CS50 series offered by Harvard University, start at the entry level but quickly escalate by weeks. 
 
-One important lesson I learned from my programming experiences is that **do not lose patience and confidence because all the problems can be solved in the programming world**. 
+My codes for solving the problem sets of the courses are shared below. However, to gain the most benefits, it is highly recommended to develop the codes on your own first. One important lesson I learned from my programming experiences is that **using the resources wisely and do not lose patience and confidence because all the problems can be solved in the programming world**. 
 
 <hr style="background-color: whitesmoke; size: 1px; opacity: .25">
 
@@ -227,7 +227,9 @@ My codes for the *weekly projects* are shared here. The original questions of ea
 ## Machine learning Specialization
 
 <img style="border: 0px solid; width: 180px; height: 220px; float:left; padding:0px 30px 0px 0px" src="/images/ML_Ng.png" alt="" class="inline-block">
-As one of the millions of followers, I think this machine learning course taught by Andrew Ng is one of the best machine learning courses for beginners. The course has been updated recently and contains three sub-courses now: *Supervised Machine Learning*, *Advanced Learning Algorithms* and *Unsupervised learning*. These courses teach you the theory behind the machine learning models and how to bild machine learning models using *Numpy* and *sci-kit learn* in Python. Due to copyrights, I do not share course materials and codes here. Overall, the quizzes and course work are not very difficult but are definitely helpful to understand the theories and improve coding skills. For more information, please check the <a href="https://www.coursera.org/specializations/machine-learning-introduction#courses" target="_blank">course's information on Coursera</a>. 
+As one of the millions of followers, I think this machine learning course taught by Andrew Ng is one of the best machine learning courses for beginners. The course has been updated recently and contains three sub-courses now: *Supervised Machine Learning*, *Advanced Learning Algorithms* and *Unsupervised learning*. These courses teach you the theory behind the machine learning models and how to build machine learning models using *Numpy* and *sci-kit learn* in Python. 
+
+Due to copyrights, I do not share course materials and codes here. Overall, the quizzes and course work are not very difficult but are definitely helpful to understand the theories and improve coding skills. For more information, please check the <a href="https://www.coursera.org/specializations/machine-learning-introduction#courses" target="_blank">course's information on Coursera</a>. 
 <br>
 <br>
 <br>
