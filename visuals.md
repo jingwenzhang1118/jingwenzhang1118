@@ -31,9 +31,10 @@ hr {
 
 <!-- for mp4 -->
 .custom-video {
-    margin: 0 auto;
-    width: 70%;
-    height: 300px;
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,7 +61,7 @@ hr {
     top: 43%;
     left: 46%;
     background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 30%;
+    border-radius: 50%;
     padding: 1em;
     display: flex;
     justify-content: center;
@@ -100,7 +101,7 @@ The folllowing suggests that CSR performance of firms has improved over time.
 <img class="container_img" src="/images/avgcsr_all.gif">
 </div>
 
-
+<div class="container">
 <div class="custom-video">
       <!-- first video  -->
       <div class="custom-video__container">
@@ -110,7 +111,7 @@ The folllowing suggests that CSR performance of firms has improved over time.
         </video>
         <div class="custom-video__control">▶</div>
     </div>
-</div>
+</div></div>
 
 
 
