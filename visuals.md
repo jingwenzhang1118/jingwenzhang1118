@@ -32,21 +32,20 @@ hr {
 .custom-video {
     position: relative;
     top: 0;
-    width: 100%;
-    height: 100vh;
+    width: 70%;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
     align-content: center;
     flex-wrap: wrap;
-    background-color: #00808097;
 }
 
 .custom-video__container {
     position: relative;
     top: 0;
-    width: 32vw;
-    height: auto;
+    width: 100%;
+    height: 100%;
     margin: 1em;
     font-family: 'Oswald', sans-serif;
 }
@@ -101,6 +100,17 @@ The folllowing suggests that CSR performance of firms has improved over time.
 <video controls autoplay>
     <source src="/images/avgcsr.mp4" type="video/mp4">
 </video>
+
+<div class="custom-video">
+      <!-- first video  -->
+      <div class="custom-video__container">
+        <video class="custom-video__video" width="100%" height="auto" muted>
+          <source src="/images/avgcsr.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+        <div class="custom-video__control">▶</div>
+    </div>
+</div>
 
 <div class="custom-video">
       <!-- first video  -->
