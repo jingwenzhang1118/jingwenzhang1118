@@ -6,6 +6,14 @@ title: "Research papers"
 ---
 
 <style>
+
+.desc {
+    background-color: "whitesmoke"; 
+    color: "black"; 
+    font-size: 17px; 
+    text-align: justify
+}
+
 .container {
     width: 60%;
     height: 200px;
@@ -15,6 +23,16 @@ title: "Research papers"
     width: 100%;
     height: 100%;
     object-fit: fill;
+}
+
+hr {
+    background-color: "whitesmoke";
+    size: 1px;
+    opacity: .25
+}
+
+details summary {
+    color = "#71797E";
 }
 </style>
 
@@ -28,22 +46,22 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 </div>
 
 <br>
-<hr style="background-color: whitesmoke; size: 1px; opacity: .25">
+<hr>
 
 ## Charitable CEOs
-<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">  Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
+<div class="desc">  Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
 </div>
 
 <p>
 </p>
 
 <details open>
-    <summary style="color: #71797E">[Details]</summary>
+    <summary>[Details]</summary>
     <p>Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. Although concerns persist that CEOs engage with charities for enhancing social image, our paper uncovers that charitable CEOs are likely prosocial in nature. They invest more in ESG activities and consequently garner appreciation from the employees. Furthermore, charitable CEOs behave responsibly in other corporate decisions, such as issuing higher quality financial reports and offering more precise management forecasts to stakeholders.
     </p>
 </details>
 <br>
-<hr style="background-color: whitesmoke; size: 1px; opacity: .25">
+<hr>
 
 ## Human capital investment and supporting underperforming employees
 <div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">Should firms give up on their underperforming employees? The answer is a resounding NO. A better strategy is to provide human capital investment to those underperforming employees who still have the potential for improvement.
