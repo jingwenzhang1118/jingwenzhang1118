@@ -60,17 +60,17 @@ hr {
     position: absolute;
     top: 43%;
     left: 46%;
-    background-color: #fcfcfc;
+    background-color: silver;
     border-radius: 50%;
     padding: 1em;
     display: flex;
-    justify-content: center;
+    justify-content: light grey;
     align-items: center;
     color: #ffffff;
     font-size: 1em;
     font-weight: 400;
-    width: 3em;
-    height: 3em;
+    width: 2em;
+    height: 2em;
     white-space: nowrap;
     line-height: 0;
 }
