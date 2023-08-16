@@ -22,7 +22,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <hr>
 
 ## Charitable CEOs
-<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">  Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
+<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
 </div>
 
 <p>
