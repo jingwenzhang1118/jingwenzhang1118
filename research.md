@@ -5,36 +5,9 @@ title: "Research papers"
 
 ---
 
-<style>
-
-.desc {
-    background-color: whitesmoke; 
-    color: black; 
-    font-size: 17px; 
-    text-align: justify
-}
-
-.container {
-    width: 60%;
-    height: 200px;
-    margin: 0 auto;
-}
-.container_img {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-}
-
-hr {
-    background-color: whitesmoke;
-    size: 1px;
-    opacity: .25
-}
-
-details summary {
-    color = #71797E;
-}
-</style>
+<head>
+<link rel="stylesheet", href="style.css">
+</head>
 
 
 Motivated by practical issues, my research focuses broadly on managerial accounting, corporate governance and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers. The goal is to balance short-term strategic behaviors and long-term goals of organizations.
@@ -49,14 +22,14 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <hr>
 
 ## Charitable CEOs
-<div class="desc">  Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
+<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">  Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
 </div>
 
 <p>
 </p>
 
 <details open>
-    <summary >[Details]</summary>
+    <summary style="color: #71797E">[Details]</summary>
     <p>Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. Although concerns persist that CEOs engage with charities for enhancing social image, our paper uncovers that charitable CEOs are likely prosocial in nature. They invest more in ESG activities and consequently garner appreciation from the employees. Furthermore, charitable CEOs behave responsibly in other corporate decisions, such as issuing higher quality financial reports and offering more precise management forecasts to stakeholders.
     </p>
 </details>
