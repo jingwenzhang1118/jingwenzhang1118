@@ -8,7 +8,7 @@ title: Data Visualization
 <style>
 .container {
     width: 70%;
-    height: 300px;
+    height: 400px;
     margin: 0 auto;
 }
 .container_img {
@@ -60,7 +60,7 @@ hr {
     position: absolute;
     top: 43%;
     left: 46%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: whitesmoke;
     border-radius: 50%;
     padding: 1em;
     display: flex;
@@ -93,13 +93,19 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 ## CSR Performance over time
 The folllowing suggests that CSR performance of firms has improved over time. 
 
-<div class="container">
-<img class="container_img" src="/images/avgcsr.gif">
-</div>
 
 <div class="container">
-<img class="container_img" src="/images/avgcsr_all.gif">
-</div>
+<div class="custom-video">
+      <!-- first video  -->
+      <div class="custom-video__container">
+        <video class="custom-video__video" width="100%" height="100%" muted>
+          <source src="/images/avgcsr.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+        <div class="custom-video__control">▶</div>
+    </div>
+</div></div>
+
 
 <div class="container">
 <div class="custom-video">
@@ -112,19 +118,6 @@ The folllowing suggests that CSR performance of firms has improved over time.
         <div class="custom-video__control">▶</div>
     </div>
 </div></div>
-
-
-
-<div class="custom-video">
-      <!-- first video  -->
-      <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="auto" muted>
-          <source src="/images/avgcsr.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-        <div class="custom-video__control">▶</div>
-    </div>
-</div>
 
 <br>
 <hr>
