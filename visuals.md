@@ -69,8 +69,8 @@ hr {
     color: #ffffff;
     font-size: 1em;
     font-weight: 400;
-    width: 2em;
-    height: 2em;
+    width: 3em;
+    height: 3em;
     white-space: nowrap;
     line-height: 0;
 }
