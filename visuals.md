@@ -29,9 +29,9 @@ hr {
     opacity: .25
 }
 
+<!-- for mp4 -->
 .custom-video {
-    position: relative;
-    top: 0;
+    margin: 0 auto;
     width: 70%;
     height: 300px;
     display: flex;
@@ -60,7 +60,7 @@ hr {
     top: 43%;
     left: 46%;
     background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 50%;
+    border-radius: 30%;
     padding: 1em;
     display: flex;
     justify-content: center;
@@ -79,12 +79,15 @@ video::-webkit-media-controls {
     z-index: 1;
 }
 
+
+<!-- for gif -->
+
 </style>
 
 
-Drawing graphs is of great importnat for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that *a good graph is worth a thousand words*. 
+Drawing graphs is of great importance for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that *a good graph is worth a thousand words*. 
 
-Here I display some figures I draw using Python. In particular, I will use these figures to explore the trend of CSR performance, and its association with some firm characteristics. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
+Here I display some dynamic figures I draw using Python. In particular, I will use these figures to explore the trend of CSR performance, and its association with some firm characteristics. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
 
 ## CSR Performance over time
 The folllowing suggests that CSR performance of firms has improved over time. 
@@ -97,9 +100,6 @@ The folllowing suggests that CSR performance of firms has improved over time.
 <img class="container_img" src="/images/avgcsr_all.gif">
 </div>
 
-<video controls autoplay>
-    <source src="/images/avgcsr.mp4" type="video/mp4">
-</video>
 
 <div class="custom-video">
       <!-- first video  -->
@@ -111,6 +111,8 @@ The folllowing suggests that CSR performance of firms has improved over time.
         <div class="custom-video__control">▶</div>
     </div>
 </div>
+
+
 
 <div class="custom-video">
       <!-- first video  -->
