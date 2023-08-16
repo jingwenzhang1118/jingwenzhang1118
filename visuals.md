@@ -7,11 +7,17 @@ title: Data Visualization
 
 <style>
 .container {
-    width: 60%;
-    height: 200px;
+    width: 70%;
+    height: 300px;
     margin: 0 auto;
 }
 .container_img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.container_video {
     width: 100%;
     height: 100%;
     object-fit: fill;
@@ -22,6 +28,7 @@ hr {
     size: 1px;
     opacity: .25
 }
+
 
 </style>
 
@@ -41,9 +48,21 @@ The folllowing suggests that CSR performance of firms has improved over time.
 <img class="container_img" src="/images/avgcsr_all.gif">
 </div>
 
+<div class="container">
+<video class="container_video" controls autoplay>
+    <source src="/images/avgcsr.mp4" type=video/mp4>
+</video>
+</div>
+
 <br>
 <hr>
 
 
+## CSR Performance over time by industry
+The plots below show that CSR performance of all industries enhanced over time. And some industries often outperformed the average performance of all US compaies (left figure), while the others stayed below the average (rigth figure).
 
 
+
+### You can find the relevant codes below:
+- <a href="/" Codes for cleaning and restructuring the data
+- Codes for making the figures. 
