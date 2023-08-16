@@ -110,7 +110,8 @@ The folllowing suggests that CSR performance of firms has improved over time.
           Your browser does not support the video tag.
         </video>
         <div class="custom-video__control">▶</div>
-      </div>
+    </div>
+</div>
 
 <br>
 <hr>
