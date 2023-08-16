@@ -48,11 +48,9 @@ The folllowing suggests that CSR performance of firms has improved over time.
 <img class="container_img" src="/images/avgcsr_all.gif">
 </div>
 
-<div class="container">
-<video class="container_video" controls autoplay>
+<video controls autoplay>
     <source src="/images/avgcsr.mp4" type=video/mp4>
 </video>
-</div>
 
 <br>
 <hr>
