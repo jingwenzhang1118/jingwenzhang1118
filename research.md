@@ -8,8 +8,8 @@ title: "Research papers"
 <style>
 
 .desc {
-    background-color: "whitesmoke"; 
-    color: "black"; 
+    background-color: whitesmoke; 
+    color: black; 
     font-size: 17px; 
     text-align: justify
 }
@@ -26,13 +26,13 @@ title: "Research papers"
 }
 
 hr {
-    background-color: "whitesmoke";
+    background-color: whitesmoke;
     size: 1px;
     opacity: .25
 }
 
 details summary {
-    color = "#71797E";
+    color = #71797E;
 }
 </style>
 
@@ -56,7 +56,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 </p>
 
 <details open>
-    <summary>[Details]</summary>
+    <summary >[Details]</summary>
     <p>Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. Although concerns persist that CEOs engage with charities for enhancing social image, our paper uncovers that charitable CEOs are likely prosocial in nature. They invest more in ESG activities and consequently garner appreciation from the employees. Furthermore, charitable CEOs behave responsibly in other corporate decisions, such as issuing higher quality financial reports and offering more precise management forecasts to stakeholders.
     </p>
 </details>
