@@ -49,7 +49,7 @@ The folllowing suggests that CSR performance of firms has improved over time.
 </div>
 
 <video controls autoplay>
-    <source src="/images/avgcsr.mp4" type=video/mp4>
+    <source src="/images/avgcsr.mp4" type="video/mp4">
 </video>
 
 <br>
