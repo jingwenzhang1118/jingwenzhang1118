@@ -60,7 +60,7 @@ hr {
     position: absolute;
     top: 43%;
     left: 46%;
-    background-color: whitesmoke;
+    background-color: #fcfcfc;
     border-radius: 50%;
     padding: 1em;
     display: flex;
