@@ -8,7 +8,6 @@ title: Data Visualization
 <link rel="stylesheet" href="/assets/css/res.css">
 
 
-
 Drawing graphs is of great importance for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that **a good graph is worth a thousand words**. 
 
 Here I display some dynamic figures I draw using Python. In particular, I will use these figures to explore the trend of CSR performance, and its association with some firm characteristics. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
@@ -22,7 +21,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" height="80%" muted autoplay>
+        <video class="custom-video__video" weight="auto" height="80%" muted autoplay loop>
           <source src="/images/avgcsr.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -39,7 +38,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" width="80%" muted autoplay>
+        <video class="custom-video__video" width="100%" height="auto" muted autoplay loop>
           <source src="/images/avgcsr_ind.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -58,7 +57,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" height="80%" muted autoplay>
+        <video class="custom-video__video" width="auto" height="100%" muted autoplay loop>
           <source src="/images/avgcsr_gender.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -76,7 +75,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" width="80%" height="100%" muted autoplay>
+        <video class="custom-video__video" width="100%" height="auto" muted autoplay loop>
           <source src="/images/avgcsr_ols.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -95,42 +94,4 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <script src="/assets/css/videoscript.js"></script>
 
-<!--
-<script>
-    // Adding functinality to video play and pause button
-    const video = document.getElementsByClassName("custom-video__video");
-    let i;
-    for (i = 0; i < video.length; i++) {
-    video[i].addEventListener("click", function () {
-        const controls = this.nextElementSibling;
-        if (controls.innerHTML === "▶") {
-        controls.innerHTML = "| |";
-        this.play();
-        } else {
-        controls.innerHTML = "▶";
-        this.pause();
-        }
-    });
-    video[i].addEventListener("mouseout", function () {
-        const controls = this.nextElementSibling;
-        if (!this.paused) {
-        controls.style.display = "none";
-        }
-    });
-    video[i].addEventListener("mouseover", function () {
-        const controls = this.nextElementSibling;
-        controls.style.display = "flex";
-    });
-    video[i].addEventListener(
-        "ended",
-        function () {
-        const controls = this.nextElementSibling;
-        controls.style.display = "flex";
-        controls.innerHTML = "▶";
-        },
-        false
-    );
-    }
-</script>
--->
 
