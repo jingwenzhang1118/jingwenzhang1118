@@ -5,77 +5,7 @@ title: Data Visualization
 
 ---
 
-<style>
-.container {
-    width: 70%;
-    height: 400px;
-    margin: 0 auto;
-}
-.container_img {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-}
-
-hr {
-    background-color: whitesmoke;
-    size: 1px;
-    opacity: .25
-}
-
-<!-- for mp4 -->
-.custom-video {
-    width: 70%;
-    height: 400px;
-    margin: 0 auto;
-}
-
-.custom-video__container {
-    position: relative;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    margin: 1em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.custom-video__video {
-    border-radius: 0.2em;
-    cursor: pointer;
-    object-fit: fill;
-}
-
-.custom-video__control {
-    position: absolute;
-    top: 43%;
-    left: 46%;
-    background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 50%;
-    padding: 1em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #ffffff;
-    font-size: 1em;
-    font-weight: 400;
-    width: 2em;
-    height: 2em;
-    white-space: nowrap;
-    line-height: 0;
-}
-
-video::-webkit-media-controls {
-    position: relative;
-    z-index: 1;
-}
-
-.fighd {
-    color: #1f77b4;
-}
-
-</style>
+<link rel="stylesheet" href="/assets/css/res.css">
 
 
 
@@ -149,7 +79,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="100%" muted autoplay>
+        <video class="custom-video__video" height="100%" muted autoplay>
           <source src="/images/avgcsr_ols.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
