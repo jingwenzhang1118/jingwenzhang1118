@@ -42,6 +42,9 @@ hr {
     border-radius: 0.2em;
     cursor: pointer;
     object-fit: fill;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .custom-video__control {
@@ -54,7 +57,7 @@ hr {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #1f77b4;
+    color: #ffffff;
     font-size: 1em;
     font-weight: 400;
     width: 2em;
