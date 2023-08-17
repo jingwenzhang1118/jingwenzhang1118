@@ -83,6 +83,17 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
     </div>
 </div>
 <br>
+
+<div class="custom-video">
+      <div class="custom-video__container">
+        <video class="custom-video__video" width="100%" height="auto" muted>
+          <source src="/images/avgcsr_ols_8_4.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+        <div class="custom-video__control">▶</div>
+    </div>
+</div>
+<br>
 <hr>
 
 
