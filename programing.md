@@ -4,8 +4,7 @@ layout: page
 title: "Programing practices"
 
 ---
-
-<link rel="stylesheet" href="/assets/css/res.css"></link>
+<link rel="stylesheet" href="/assets/css/res.css">
 
 
 Progamming skills certainly increases the possibities and flexibilities in solving data-related tasks. I have benefited significanly from the following courses. These courses are intriguing, clearly explained and well designed. One valuable asset of these courses are the problem sets. The difficulty of these problmes, espeically the CS50 series offered by Harvard University, start at the entry level but quickly escalate by weeks. 

@@ -4,7 +4,7 @@ layout: page
 title: "Research papers"
 
 ---
-<link rel="stylesheet" href="/assets/css/res.css"></link>
+<link rel="stylesheet" href="/assets/css/res.css">
 
 Motivated by practical issues, my research focuses broadly on managerial accounting, corporate governance and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers. The goal is to balance short-term strategic behaviors and long-term goals of organizations.
 
