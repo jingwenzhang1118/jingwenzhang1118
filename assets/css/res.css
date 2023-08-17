@@ -21,3 +21,7 @@ hr {
     font-size: 17px;
     text-align: justify;
 }
+
+summary {
+    color: #71797E
+}

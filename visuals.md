@@ -17,12 +17,6 @@ title: Data Visualization
     object-fit: fill;
 }
 
-.container_video {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-}
-
 hr {
     background-color: whitesmoke;
     size: 1px;
@@ -31,7 +25,8 @@ hr {
 
 <!-- for mp4 -->
 .custom-video {
-    width: 70%;
+    top: 0;
+    width: 100%;
     height: 400px;
     display: flex;
     justify-content: center;
@@ -44,9 +39,8 @@ hr {
     position: relative;
     top: 0;
     width: 100%;
-    height: 100%;
+    height: auto;
     margin: 1em;
-    font-family: 'Oswald', sans-serif;
 }
 
 .custom-video__video {
@@ -58,7 +52,7 @@ hr {
     position: absolute;
     top: 43%;
     left: 46%;
-    background-color: rgba(0, 0, 0, 0.5;
+    background-color: rgba(0, 0, 0, 0.5);
     border-radius: 50%;
     padding: 1em;
     display: flex;
@@ -78,18 +72,24 @@ video::-webkit-media-controls {
     z-index: 1;
 }
 
-
+.fighd {
+    color: #1f77b4;
+    opacity: 0.5;
+}
+.fighd__em {
+    color: #1f77b4;
+}
 
 </style>
 
 
-Drawing graphs is of great importance for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that *a good graph is worth a thousand words*. 
+Drawing graphs is of great importance for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that **a good graph is worth a thousand words**. 
 
 Here I display some dynamic figures I draw using Python. In particular, I will use these figures to explore the trend of CSR performance, and its association with some firm characteristics. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
 
-## CSR Performance over time
+<h3 id="fighd"> CSR Performance over time </h3>
 The folllowing suggests that CSR performance of firms has improved over time. 
-
+<br>
 
 <div class="container">
 <div class="custom-video">
@@ -120,14 +120,75 @@ The folllowing suggests that CSR performance of firms has improved over time.
 <hr>
 
 
-## CSR Performance over time by industry
-The plots below show that CSR performance of all industries enhanced over time. And some industries often outperformed the average performance of all US compaies (left figure), while the others stayed below the average (rigth figure).
+<h3 class="fighd"> CSR Performance over time by <span class="fighd__em">Industry</span></h3>
+
+<div class="container">
+<div class="custom-video">
+      <!-- first video  -->
+      <div class="custom-video__container">
+        <video class="custom-video__video" width="100%" height="100%" muted>
+          <source src="/images/avgcsr_ind.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+        <div class="custom-video__control">▶</div>
+    </div>
+</div></div>
 
 
+The plots above show that CSR performance of all industries enhanced over time. A deeper exploration shows that some industries often outperformed the average performance of all US compaies (left figure), while the others stayed below the average (rigth figure).
 
-### You can find the relevant codes below:
-- <a href="/" >Codes for cleaning and restructuring the data</a>
-- <a href=Codes for making the figures. 
+<br>
+<hr>
+
+
+<h3 class="fighd"> CSR Performance over time by <span class="fighd__em">Gender</span></h3>
+
+<div class="container">
+<div class="custom-video">
+      <!-- first video  -->
+      <div class="custom-video__container">
+        <video class="custom-video__video" width="100%" height="100%" muted>
+          <source src="/images/avgcsr_gender.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+        <div class="custom-video__control">▶</div>
+    </div>
+</div></div>
+
+
+Many literature document that females and males make decisions differently due to their differences in characteristics. Here I show that firms run by female CEOs on average have better CSR performance than firms run by male CEOs. However, the differences reduced over time, as the CSR performance under the operation of male CEOs kept increasing. 
+
+<br>
+<hr>
+
+
+<h3 class="fighd"> CSR Performance and <span class="fighd__em">Firm Size</span></h3> 
+
+<div class="container">
+<div class="custom-video">
+      <!-- first video  -->
+      <div class="custom-video__container">
+        <video class="custom-video__video" width="100%" height="100%" muted>
+          <source src="/images/avgcsr_ols.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+        <div class="custom-video__control">▶</div>
+    </div>
+</div></div>
+
+
+Large firms are expected to have more resources to invest in CSR activities, which should lead to greater CSR performance (CSR ratings). 
+The left figure above plots the linear relationship between CSR performance and firm size(measured by the logarithm of a firm's assets) each year. The scatters show part of the data used for the linear regression. As expected, there is a positive assocation between CSR and firm size. Interestingly, the association becomes greater in more recent years. 
+The right bar chart displays the coefficients of firm size by year. Clearly, the coefficients, indicative of the association between CSR and firm size, are larger in recent years. 
+
+
+<br>
+<hr>
+
+
+### You can find the related codes below:
+- Codes for <a href="data_prep.html" target="_blank">cleaning and restructuring the data</a>.
+- Codes for <a href="figs.html" target="_blank">making the dynamic figures</a>. 
 
 
 <script>
