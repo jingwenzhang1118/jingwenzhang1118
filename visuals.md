@@ -58,7 +58,7 @@ hr {
     position: absolute;
     top: 43%;
     left: 46%;
-    background-color: light grey;
+    background-color: rgba(0, 0, 0, 0.5;
     border-radius: 50%;
     padding: 1em;
     display: flex;

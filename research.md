@@ -4,31 +4,7 @@ layout: page
 title: "Research papers"
 
 ---
-<style>
-.container {
-    width: 60%;
-    height: 200px;
-    margin: 0 auto;
-}
-.container_img {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-}
-
-hr {
-    background-color: whitesmoke;
-    size: 1px;
-    opacity: .25
-}
-
-.headline {
-    backgroud-color: whitesmoke;
-    color: black;
-    font-size: 17px;
-    text-align: justify;
-}
-</style>
+<link rel="stylesheet" href="/assets/css/res.css"></link>
 
 Motivated by practical issues, my research focuses broadly on managerial accounting, corporate governance and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers. The goal is to balance short-term strategic behaviors and long-term goals of organizations.
 
@@ -42,7 +18,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <hr>
 
 ## Charitable CEOs
-<div style="background-color: whitesmoke; color: black; font-size: 17px; text-align: justify">Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
+<div class="headline">Do charitable CEOs taking positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
 </div>
 
 <p>
