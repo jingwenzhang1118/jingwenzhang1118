@@ -21,7 +21,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" weight="auto" height="100%" muted autoplay>
+        <video class="custom-video__video" weight="auto" height="90%" muted autoplay>
           <source src="/images/avgcsr.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -57,7 +57,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" width="auto" height="100%" muted autoplay>
+        <video class="custom-video__video" width="auto" height="90%" muted autoplay>
           <source src="/images/avgcsr_gender.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
