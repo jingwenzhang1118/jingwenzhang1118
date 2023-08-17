@@ -1,5 +1,4 @@
 
-
 <script>
     // Adding functinality to video play and pause button
     const video = document.getElementsByClassName("custom-video__video");
