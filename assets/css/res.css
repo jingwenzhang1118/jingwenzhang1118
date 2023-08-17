@@ -25,3 +25,15 @@ hr {
 summary {
     color: #71797E
 }
+
+ul {
+    display: grid;
+    align-items: left-start;
+    padding-left: 20px;
+    margin-top: -15px;
+    line-height: 1.25;
+}
+
+li {
+    margin-bottom: 1px;
+}
