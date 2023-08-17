@@ -10,7 +10,7 @@ title: Data Visualization
 
 Drawing graphs is of great importance for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that **a good graph is worth a thousand words**. 
 
-Here I display some dynamic figures I draw using Python. In particular, I will use these figures to explore the trend of CSR performance, and its association with some firm characteristics. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
+Here I display some dynamic figures I draw using Python. In particular, I use these figures to explore the **trend of CSR performance of US compannies**, and **its association with some firm characteristics**. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
 <br>
 <hr>
 
@@ -36,7 +36,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 - The plots below show that CSR performance of all industries enhanced over time. 
 - A deeper exploration shows that some industries often outperformed the average performance of all US compaies (left figure), while the others stayed below the average (rigth figure).
 
-<div class="custom-video" height=320px>
+<div class="custom-video">
       <div class="custom-video__container">
         <video class="custom-video__video" width="100%" height="auto" muted autoplay>
           <source src="/images/avgcsr_ind.mp4" type="video/mp4" />
@@ -74,7 +74,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 - The right bar chart displays the coefficients of firm size by year. Clearly, the coefficients, indicative of the association between CSR and firm size, are larger in recent years. 
 
 
-<div class="custom-video" height=320px>
+<div class="custom-video">
       <div class="custom-video__container">
         <video class="custom-video__video" width="100%" height="auto" muted autoplay>
           <source src="/images/avgcsr_ols.mp4" type="video/mp4" />
@@ -92,10 +92,8 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 - Codes for <a href="https://github.com/jingwenzhang1118/jingwenzhang1118.github.io/blob/656d780e02a5618939aa4888a4b34e3ed38b275c/visuals_prep.ipynb" target="_blank">cleaning and restructuring the data</a>.
 - Codes for <a href="https://github.com/jingwenzhang1118/jingwenzhang1118.github.io/blob/656d780e02a5618939aa4888a4b34e3ed38b275c/visuals.ipynb" target="_blank">making the dynamic figures</a>. 
 
-<script src="/assets/css/videoscript.js"></script>
 
 
-<!--
 <script>
     // Adding functinality to video play and pause button
     const video = document.getElementsByClassName("custom-video__video");
@@ -132,6 +130,6 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
     );
     }
 </script>
--->
+
 
 
