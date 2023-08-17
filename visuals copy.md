@@ -25,15 +25,20 @@ hr {
 
 <!-- for mp4 -->
 .custom-video {
-    width: 70%;
-    height: 400px;
-    margin: 0 auto;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
 }
 
 .custom-video__container {
     position: relative;
     top: 0;
-    width: 100%;
+    width: auto;
     height: 100%;
     margin: 1em;
 }
@@ -41,7 +46,6 @@ hr {
 .custom-video__video {
     border-radius: 0.2em;
     cursor: pointer;
-    object-fit: fill;
 }
 
 .custom-video__control {
@@ -104,7 +108,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 <div class="custom-video">
       <!-- first video  -->
       <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="100%" muted>
+        <video class="custom-video__video" width="100%" height="auto" muted>
           <source src="/images/avgcsr.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -124,7 +128,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 <div class="custom-video">
       <!-- first video  -->
       <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="100%" muted>
+        <video class="custom-video__video" width="100%" height="120%" muted>
           <source src="/images/avgcsr_ind.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -145,7 +149,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 <div class="custom-video">
       <!-- first video  -->
       <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="100%" muted>
+        <video class="custom-video__video" width="100%" height="120%" muted>
           <source src="/images/avgcsr_gender.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -166,7 +170,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 <div class="custom-video">
       <!-- first video  -->
       <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="100%" muted>
+        <video class="custom-video__video" width="100%" height="120%" muted>
           <source src="/images/avgcsr_ols.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
