@@ -38,7 +38,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="60%" muted>
+        <video class="custom-video__video" width="100%" height="auto" muted>
           <source src="/images/avgcsr_ind.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -75,7 +75,7 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="80%" muted>
+        <video class="custom-video__video" width="100%" height="auto" muted>
           <source src="/images/avgcsr_ols.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -92,6 +92,42 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 - Codes for <a href="https://github.com/jingwenzhang1118/jingwenzhang1118.github.io/blob/656d780e02a5618939aa4888a4b34e3ed38b275c/visuals.ipynb" target="_blank">making the dynamic figures</a>. 
 
 
-<script src="/assets/css/videoscript.js"></script>
+<script>
+    // Adding functinality to video play and pause button
+    const video = document.getElementsByClassName("custom-video__video");
+    let i;
+    for (i = 0; i < video.length; i++) {
+    video[i].addEventListener("click", function () {
+        const controls = this.nextElementSibling;
+        if (controls.innerHTML === "▶") {
+        controls.innerHTML = "| |";
+        this.play();
+        } else {
+        controls.innerHTML = "▶";
+        this.pause();
+        }
+    });
+    video[i].addEventListener("mouseout", function () {
+        const controls = this.nextElementSibling;
+        if (!this.paused) {
+        controls.style.display = "none";
+        }
+    });
+    video[i].addEventListener("mouseover", function () {
+        const controls = this.nextElementSibling;
+        controls.style.display = "flex";
+    });
+    video[i].addEventListener(
+        "ended",
+        function () {
+        const controls = this.nextElementSibling;
+        controls.style.display = "flex";
+        controls.innerHTML = "▶";
+        },
+        false
+    );
+    }
+</script>
+
 
 
