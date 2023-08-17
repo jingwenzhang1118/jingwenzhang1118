@@ -36,10 +36,10 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 - The plots below show that CSR performance of all industries enhanced over time. 
 - A deeper exploration shows that some industries often outperformed the average performance of all US compaies (left figure), while the others stayed below the average (rigth figure).
 
-<div class="custom-video">
+<div class="custom-video" height=350px>
       <div class="custom-video__container">
         <video class="custom-video__video" width="100%" height="auto" muted>
-          <source src="/images/avgcsr_ind.mp4" type="video/mp4" />
+          <source src="/images/avgcsr_ind_8_4.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <div class="custom-video__control">▶</div>
@@ -73,16 +73,6 @@ Here I display some dynamic figures I draw using Python. In particular, I will u
 - The left figure plots the linear relationship between CSR performance and firm size(measured by the logarithm of a firm's assets) each year. The scatters show part of the data used for the linear regression. As expected, there is a positive assocation between CSR and firm size. Interestingly, the association becomes greater in more recent years. 
 - The right bar chart displays the coefficients of firm size by year. Clearly, the coefficients, indicative of the association between CSR and firm size, are larger in recent years. 
 
-<div class="custom-video">
-      <div class="custom-video__container">
-        <video class="custom-video__video" width="100%" height="auto" muted>
-          <source src="/images/avgcsr_ols.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-        <div class="custom-video__control">▶</div>
-    </div>
-</div>
-<br>
 
 <div class="custom-video">
       <div class="custom-video__container">
