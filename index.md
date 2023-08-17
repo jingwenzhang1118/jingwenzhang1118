@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-<img style="border: 0px solid ; width: 260px; height: 320px; float: left; padding:0px 30px 80px 0px" src="/images/photo_J.Zhang.jpeg" alt="hi" class="inline-block">
+<img style="border: 0px solid ; width: 260px; height: 320px; float: right; padding:0px 0px 80px 30px" src="/images/photo_J.Zhang.jpeg" alt="hi" class="inline-block">
 Welcome to my homepage!
 
 I am an assistant professor in Accounting at Erasmus School of Economics (ESE), Erasmum University Rotterdam. Motivated by real-life issues, my research focus broadly on managerial accounting, corporate governance, and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers, to balnace strategic behaviors and long-term goals of organizations. 
