@@ -10,6 +10,6 @@ I am an assistant professor in Accounting at Erasmus School of Economics (ESE), 
 
 I have taught various courses, incluidng programming, managerial accounting, financial accounting, seminar management control, and introduction to accounting research. Additionally, I supervise master students for their theses. 
 
-Please view my [CV](https://) here. <br>
+Please view my <a href="https://www.dropbox.com/scl/fi/1cqxivnjoeqygforqfdgl/CV_Jingwen-Zhang.pdf?rlkey=wps8k0fkg9hbt2sgr6ott1du6&dl=0" target="_blank">CV here</a>.
+<br>
 Mail: [j.zhang@ese.eur.nl](mailto:j.zhang@ese.eur.nl)
-

@@ -17,7 +17,7 @@ My codes for solving the problem sets of the courses are shared below. However, 
 ## CS50 Introduction to Computer Science
 
 <img style="border: 0px solid; width: 180px; height: 180px; float: left; padding:0px 30px 140px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
-CS50 is a highly evaluated computer science course that teaches languates C, python and SQL and focuses on topics like computational thinking, abstraction, algorithms, data structures, and computer science more generally. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. 
+CS50 by Harvard University is a highly evaluated computer science course that teaches languates C, python and SQL, and focuses on topics like computational thinking, abstraction, algorithms, data structures, and computer science more generally. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. 
 
 Here I include the codes I use to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
 My codes for addressing the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
@@ -99,7 +99,7 @@ My codes for addressing the *Practical problems* and *Labs* of each topic can be
 ## CS50 Programming with Python
 
 <img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 200px 0px" src="/images/cs50p.webp" alt="" class="inline-block">
-CS50 Programming with Python (CS50P) is another open course offered by Harvard University. It covers topics such as functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. It also teaches how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files.
+CS50 Programming with Python (CS50P) is another course offered by Harvard University. It covers topics such as functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. It also teaches how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files.
 
 My codes for the *Problem sets* are linked below. The original questions of each topic/week can be found on <a href="https://cs50.harvard.edu/python/2022/" target="_blank">CS50P's website</a>.
 <br>
@@ -209,7 +209,7 @@ My codes for the *weekly projects* are shared here. The original questions of ea
 ## Machine learning Specialization
 
 <img style="border: 0px solid; width: 180px; height: 220px; float:left; padding:0px 30px 0px 0px" src="/images/ML_Ng.png" alt="" class="inline-block">
-As one of the millions of followers, I think this machine learning course taught by Andrew Ng is one of the best machine learning courses for beginners. The course has been updated recently and contains three sub-courses now: *Supervised Machine Learning*, *Advanced Learning Algorithms* and *Unsupervised learning*. These courses teach you the theory behind the machine learning models and how to build machine learning models using *Numpy* and *sci-kit learn* in Python. 
+As one of the millions of followers, I think this machine learning course taught by Andrew Ng is one of the best machine learning courses for beginners. The course has been updated recently and contains three sub-courses now: *Supervised Machine Learning*, *Advanced Learning Algorithms* and *Unsupervised learning*. These courses teach you the theories behind the machine learning models and how to build machine learning models using *Numpy* and *sci-kit learn* in Python. 
 
 Due to copyrights, I do not share course materials and codes here. Overall, the quizzes and course work are not very difficult but are definitely helpful to understand the theories and improve coding skills. For more information, please check the <a href="https://www.coursera.org/specializations/machine-learning-introduction#courses" target="_blank">course's information on Coursera</a>. 
 <br>
