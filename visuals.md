@@ -15,7 +15,7 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 <hr>
 
 
-<h3 class="fighd">CSR Performance over time by Gender</h3>
+<h3 class="fighd">CSR Performance over time</h3>
 
 - The folllowing figure suggests that CSR performance of firms has improved over time. 
 
