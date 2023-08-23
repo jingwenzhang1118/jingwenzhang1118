@@ -53,7 +53,7 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 
 - Many literature document that females and males make decisions differently due to their differences in characteristics. Some papers suggest that females are likely more socially responsible. 
 - Here I show that firms run by female CEOs on average have better CSR performance than firms run by male CEOs. 
-- However, the differences reduced over time, as the CSR performance under the operation of male CEOs kept increasing. 
+- However, the differences reduced over time, as the CSR performance of firms with male CEOs kept increasing. 
 
 <div class="custom-video">
       <div class="custom-video__container">
