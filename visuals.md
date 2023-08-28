@@ -33,8 +33,8 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 
 <h3 class="fighd">CSR Performance over time by Industry</h3>
 
-- The plots below show that CSR performance of all industries enhanced over time. 
-- A deeper exploration shows that some industries often outperformed the average performance of all the US compaies (left figure), while the other industries mostly performed below the average (rigth figure). The grey area represents the average CSR performance of all the US companies. 
+- The plots below show that CSR performance of all industries enhanced over time. The grey area represents the average CSR performance of all the US companies. 
+- A deeper exploration shows that some industries often outperformed the average performance of all the US compaies (left figure), while the other industries mostly performed below the average (rigth figure). 
 
 <div class="custom-video">
       <div class="custom-video__container">

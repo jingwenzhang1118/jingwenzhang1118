@@ -26,8 +26,8 @@ summary {
     color: #71797E;
 }
 
-p.indent {
-    text-indent: 34px;
+summary > p {
+   text-indent: 32px; 
 }
 
 ul {
