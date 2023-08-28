@@ -26,7 +26,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 
 <details open>
     <summary>[Details]</summary>
-    <p>Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. By analyzing data on CEO and firm characteristics, 1M+ employee reviews on Glassdoor.com, and 1M+ records of corporate donations, this paper studies whether charitable CEOs, those taking positions in charities, behave consistently and ethincally in making corporate decisions. <br>
+    <p style="text-indent: 32px">Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. By analyzing data on CEO and firm characteristics, 1M+ employee reviews on Glassdoor.com, and 1M+ records of corporate donations, this paper studies whether charitable CEOs, those taking positions in charities, behave consistently and ethincally in making corporate decisions. <br>
     Although concerns persist that CEOs engage with charities for enhancing social image, our paper uncovers that charitable CEOs on average are likely prosocial in nature. They invest more in ESG activities and consequently garner appreciation from the employees. Furthermore, charitable CEOs behave responsibly in other corporate matters, such as issuing higher quality financial reports and offering more precise management forecasts to stakeholders.
     </p>
 </details>

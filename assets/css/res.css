@@ -24,11 +24,9 @@ hr {
 
 summary {
     color: #71797E;
+    text-indent: 32px;
 }
 
-summary > p {
-   text-indent: 32px; 
-}
 
 ul {
     display: grid;
