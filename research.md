@@ -21,8 +21,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <div class="headline">Do charitable CEOs that take positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
 </div>
 
-<br>
-
+<p></p>
 <details open>
     <summary>[Details]</summary>
     <p>Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. By analyzing data on CEO and firm characteristics, 1M+ employee reviews on Glassdoor.com, and 1M+ records of corporate donations, this paper studies whether charitable CEOs, those taking positions in charities, behave consistently and ethincally in making corporate decisions.</p>
@@ -37,7 +36,6 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 </div>
 
 <br>
-
 <details open>
     <summary>[Details]</summary>
     <p>Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop innovative products, and dedicate great efforts to realizing company objectives. However, some employees miss the target due to a deficiency in requisite management knowledge and skills despite having the potential for improvement. Studies often suggest to fire underperforming employees, but this suggestion seems over-simplified given that underperformance occurs so often and probably not realistic in practice given the cost of dismissal.</p>
@@ -52,7 +50,6 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 </div>
 
 <br>
-
 <details open>
     <summary>[Details]</summary>
     <p>Setting targets for employees serves multiple purposes, including encouraging high levels of effort, directing employees' behaviors, providing monetary rewards and evaluating performance. However, firms may neglect the fact that continuous target ratcheting results in reduced employee efforts. Such strategic behaviors occur because employees recognize that strong perfomrance leads to even more difficult targets in the future. As a preemptive measure, employees choose to withhold efforts now to avoid significant target rathceting in the following period, to increase their chance of meeting future targets. <br></p>
@@ -67,7 +64,6 @@ I leverage empirical evidence to investigate my research questions. I collect, o
  </div>
 
 <br>
-
 <details open>
     <summary>[Details]</summary>
     <p>Being the connection between upper management and front-line employees, middle-level managers hold significant importance for firms. As managers differ in characteristics and hence prefer diverse working styles, applying the same control approach may not incentivize all the managers to work at their best. To gain a deeper understanding, this project collected survey data from middle-level project managers, together with information on the proejcts they operated. In particular, we look into two characteristics of middle-level managers: conformity and originality. Conformative managers comply with established rules, reducing the conflicts in the workforce. While original managers are inclined to explore new ideas, proving benefits for tackling challenging tasks.</p>
@@ -82,7 +78,6 @@ I leverage empirical evidence to investigate my research questions. I collect, o
  </div>
 
 <br>
-
 <details open>
     <summary>[Details]</summary>
     <p>The practice of headquarters' visits to local units is a common strategy implemented by organizations to facilitate knowledge transfer. During these visits, headquarter managers can share their knowldge and assist local managers via face-to-face communications and on-site training. Leveraging on operational data from a chain firm, 
