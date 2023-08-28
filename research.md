@@ -74,7 +74,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 
 
 ## Knowledge exchange and spillover effects through headquarter site visits
- <div class="headline"> Headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers they visited. But what is often overlooked is that unit managers who do not receive visits from headquarter managers also beneift from these site visits through knowledge spillovers among peers.
+ <div class="headline"> Headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But what is often overlooked is that unit managers who do not receive visits from headquarter managers also beneift from these site visits through knowledge spillovers among peers.
  </div>
 
 <p></p>
