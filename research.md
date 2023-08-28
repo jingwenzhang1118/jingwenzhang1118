@@ -21,6 +21,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <div class="headline">Do charitable CEOs that take positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
 </div>
 
+<br>
 
 <details open>
     <summary>[Details]</summary>
@@ -35,6 +36,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <div class="headline">Should firms easily give up their underperforming employees? The answer is a resounding NO. A better strategy is to provide human capital investment to those underperforming employees who still have the potential for improvement.
 </div>
 
+<br>
 
 <details open>
     <summary>[Details]</summary>
@@ -49,6 +51,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <div class="headline"> Most firms recognize the beneficial effects of setting challenging targets on motivating employees' efforts. However, firms should be cautious with such an approach and in some cases firms gain more by refraining from making the targets too difficult.
 </div>
 
+<br>
 
 <details open>
     <summary>[Details]</summary>
@@ -63,6 +66,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
  <div class="headline"> Middle-level managers serve as the engine of the business, but they may prefer distinct working styles. To create an appealing working environment, superiors should know their subordinates well and adjust their controls accordingly to enable managers with varying characteristics to work in their preferable ways.
  </div>
 
+<br>
 
 <details open>
     <summary>[Details]</summary>
@@ -77,6 +81,7 @@ I leverage empirical evidence to investigate my research questions. I collect, o
  <div class="headline"> Headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers they visited. But what is often overlooked is that unit managers who do not receive visits from headquarter managers also beneift from these site visits through knowledge spillovers among peers.
  </div>
 
+<br>
 
 <details open>
     <summary>[Details]</summary>

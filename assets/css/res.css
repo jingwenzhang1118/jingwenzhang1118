@@ -24,6 +24,7 @@ hr {
 
 details[open] > *:not(summary){
     text-indent: 32px;
+    margin-bottom: 5px;
 }
 
 summary {
