@@ -22,9 +22,10 @@ hr {
     text-align: justify;
 }
 
-details > *:not(summary){
+details[open] > *:not(summary){
     text-indent: 32px;
 }
+
 summary {
     color: #71797E;
 }
