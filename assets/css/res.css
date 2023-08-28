@@ -23,7 +23,11 @@ hr {
 }
 
 summary {
-    color: #71797E
+    color: #71797E;
+}
+
+p.indent {
+    text-indent: 34px;
 }
 
 ul {
