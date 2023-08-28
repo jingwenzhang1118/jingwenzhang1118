@@ -25,9 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:j.zhang@ese.eur.nl"}
   - {title: Github, icon: github, url: "https://github.com/jingwenzhang1118"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/jingwenzhang1118/"}
   - {title: EUR, url: "https://www.eur.nl/people/jingwen-zhang"}
-
+# - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/jingwenzhang1118/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
