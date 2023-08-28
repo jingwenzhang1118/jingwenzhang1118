@@ -10,7 +10,7 @@ title: Data Visualization
 
 Drawing graphs is of great importance for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that **a good graph is worth a thousand words**. 
 
-Here I display some dynamic figures I draw using Python. In particular, I use these figures to explore the **trend of CSR (corporate social responsibility) performance of US companies**, and **its association with some firm characteristics**. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
+Here I display some dynamic figures I draw using Python. In particular, I use these figures to explore the **trend of CSR (Corporate Social Responsibility) performance of US companies**, and **its association with some firm characteristics**. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
 <br>
 <hr>
 
