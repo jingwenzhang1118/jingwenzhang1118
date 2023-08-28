@@ -10,7 +10,7 @@ title: Data Visualization
 
 Drawing graphs is of great importance for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that **a good graph is worth a thousand words**. 
 
-Here I display some dynamic figures I draw using Python. In particular, I use these figures to explore the **trend of CSR performance of US companies**, and **its association with some firm characteristics**. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
+Here I display some dynamic figures I draw using Python. In particular, I use these figures to explore the **trend of CSR (corporate social responsibility) performance of US companies**, and **its association with some firm characteristics**. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
 <br>
 <hr>
 
@@ -53,7 +53,7 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 
 - Many literature document that females and males make decisions differently due to their differences in characteristics. Some papers suggest that females are likely more socially responsible. 
 - Here I show that firms run by female CEOs on average have better CSR performance than firms run by male CEOs. 
-- However, the differences reduced over time, as the CSR performance of firms with male CEOs kept increasing. 
+- However, the difference reduced over time, as the CSR performance of firms with male CEOs kept increasing. 
 
 <div class="custom-video">
       <div class="custom-video__container">
@@ -71,7 +71,7 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 
 - Large firms are expected to have more resources to invest in CSR activities, which should lead to greater CSR performance (CSR ratings). 
 - The left figure plots the linear relationship between CSR performance and firm size each year, in which firm size is measured by the logarithm of firms' total assets. For clarity, the scatter plot only shows part of the data used for each linear regression. 
-- As shown in the left figure, there is a positive assocation between CSR and firm size. Interestingly, the slope of the line increases over years, meaning that the association between CSR performance and size becomes greater in more recent years. 
+- As shown in the left figure, there is a positive assocation between CSR and firm size. Interestingly, the slope of the line increases over years, meaning that the association between CSR performance and firm size becomes greater in more recent years. 
 - The right bar chart displays the coefficients of firm size by year. Clearly, the coefficients, indicative of the association between CSR and firm size, are larger in recent years. 
 
 
