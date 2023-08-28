@@ -21,12 +21,10 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <div class="headline">Do charitable CEOs that take positions in charities make corporate decisions differently? Do they care more about their employees and deliver better ESG performance? The answer is YES. 
 </div>
 
-<p>
-</p>
 
 <details open>
     <summary>[Details]</summary>
-    <p>Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. By analyzing data on CEO and firm characteristics, 1M+ employee reviews on Glassdoor.com, and 1M+ records of corporate donations, this paper studies whether charitable CEOs, those taking positions in charities, behave consistently and ethincally in making corporate decisions. <br></p>
+    <p>Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. By analyzing data on CEO and firm characteristics, 1M+ employee reviews on Glassdoor.com, and 1M+ records of corporate donations, this paper studies whether charitable CEOs, those taking positions in charities, behave consistently and ethincally in making corporate decisions.</p>
     <p>Although concerns persist that CEOs engage with charities for enhancing social image, our paper uncovers that charitable CEOs on average are likely prosocial in nature. They invest more in ESG activities and consequently garner appreciation from the employees. Furthermore, charitable CEOs behave responsibly in other corporate matters, such as issuing higher quality financial reports and offering more precise management forecasts to stakeholders.
     </p>
 </details>
@@ -37,12 +35,10 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <div class="headline">Should firms easily give up their underperforming employees? The answer is a resounding NO. A better strategy is to provide human capital investment to those underperforming employees who still have the potential for improvement.
 </div>
 
-<p>
-</p>
 
 <details open>
     <summary>[Details]</summary>
-    <p>Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop innovative products, and dedicate great efforts to realizing company objectives. However, some employees miss the target due to a deficiency in requisite management knowledge and skills despite having the potential for improvement. Studies often suggest to fire underperforming employees, but this suggestion seems over-simplified given that underperformance occurs so often and probably not realistic in practice given the cost of dismissal. <br></p>
+    <p>Undoubtedly employees are the most valuable assets of an organization. Motivated employees reach new targets, develop innovative products, and dedicate great efforts to realizing company objectives. However, some employees miss the target due to a deficiency in requisite management knowledge and skills despite having the potential for improvement. Studies often suggest to fire underperforming employees, but this suggestion seems over-simplified given that underperformance occurs so often and probably not realistic in practice given the cost of dismissal.</p>
     <p>Using performance data from a successful retail chain, this papers investigates the role of human capital investments in keeping underperfomring employees motivated and helping them improve performance. Our research shows that when employees underperform the targets but outperform their peers, it is beneficial for firms to provide training and mentoring opportunities to these employees, rather than dismiss them. Through such investment in human capital development, underperforming employees can elevate their performance, consequently enhancing a firm's probability of sustaining good performance. 
     </p>
 </details>
@@ -53,8 +49,6 @@ I leverage empirical evidence to investigate my research questions. I collect, o
 <div class="headline"> Most firms recognize the beneficial effects of setting challenging targets on motivating employees' efforts. However, firms should be cautious with such an approach and in some cases firms gain more by refraining from making the targets too difficult.
 </div>
 
-<p>
-</p>
 
 <details open>
     <summary>[Details]</summary>
@@ -69,13 +63,11 @@ I leverage empirical evidence to investigate my research questions. I collect, o
  <div class="headline"> Middle-level managers serve as the engine of the business, but they may prefer distinct working styles. To create an appealing working environment, superiors should know their subordinates well and adjust their controls accordingly to enable managers with varying characteristics to work in their preferable ways.
  </div>
 
-<p>
-</p>
 
 <details open>
     <summary>[Details]</summary>
-    <p>Being the connection between upper management and front-line employees, middle-level managers hold significant importance for firms. As managers differ in characteristics and hence prefer diverse working styles, applying the same control approach may not incentivize all the managers to work at their best. To gain a deeper understanding, this project collected survey data from middle-level project managers, together with information on the proejcts they operate. <br></p>
-    <p>This project considers two distinct and valuable characteristics of middle-level managers: conformity and originality. Conformative managers like complying with established rules, reducing the conflicts in the workforce. While original managers are inclined to explore new ideas, proving benefits for tackling challenging tasks. We find that superiors know their subordiantes sufficiently well and adapt their controls accordingly. Conformative managers discuss more frequently with superiors and these talks are mostly initiated by the managers themselves. These discussions assure comformative managers that their decisions align with the firm's objectives. In contrast, original managers are assigned more complicated tasks and also have more discussions with superiors but the discussions are often requested by superiors. These controls mitigate the chances that original managers take risky steps and allow supeiors to closely follow the project progress. The findings suggest that controls can be more effective by consiering the characteristics of middle-level managers.
+    <p>Being the connection between upper management and front-line employees, middle-level managers hold significant importance for firms. As managers differ in characteristics and hence prefer diverse working styles, applying the same control approach may not incentivize all the managers to work at their best. To gain a deeper understanding, this project collected survey data from middle-level project managers, together with information on the proejcts they operated. In particular, we look into two characteristics of middle-level managers: conformity and originality. Conformative managers comply with established rules, reducing the conflicts in the workforce. While original managers are inclined to explore new ideas, proving benefits for tackling challenging tasks.</p>
+    <p>This project finds that superiors know their subordiantes sufficiently well and adapt their controls accordingly. Conformative managers discuss more frequently with superiors and these talks are mostly initiated by the managers themselves. These discussions assure comformative managers that their decisions align with the firm's objectives. In contrast, original managers are assigned more complicated tasks and also have more discussions with superiors but the discussions are often requested by superiors. These controls mitigate the chances that original managers take risky steps and allow supeiors to closely follow the project progress. The findings suggest that controls can be more effective by consiering the characteristics of middle-level managers.
     </p>
 </details>
 <br>
@@ -85,13 +77,12 @@ I leverage empirical evidence to investigate my research questions. I collect, o
  <div class="headline"> Headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers they visited. But what is often overlooked is that unit managers who do not receive visits from headquarter managers also beneift from these site visits through knowledge spillovers among peers.
  </div>
 
-<p>
-</p>
 
 <details open>
     <summary>[Details]</summary>
     <p>The practice of headquarters' visits to local units is a common strategy implemented by organizations to facilitate knowledge transfer. During these visits, headquarter managers can share their knowldge and assist local managers via face-to-face communications and on-site training. Leveraging on operational data from a chain firm, 
-    this study shows two noteworthy results. First, local managers who receive visits indeed enhance performance through improved management practices. Second, local managers that are not directly visited by headquarter managers but are located close to those who are visited experience performance improvements as well following these visits. This is attributed to the fact that these managers can learn from their peers' examples of improved practices. Overall, site visits do not only benefit local managers via direct knowledge exchange between headquarter managers and unit managers, but also indirectly help local managers who do not receive visits through knowledge spillover among peers.  
+    this study first confirm that local managers who receive visits indeed enhance performance through improved management practices. </p>
+    <p>Additionally, this study suggests that local managers that are not visited by headquarter managers but are located close to those who are visited experience performance improvement as well following the visits. This is attributed to the fact that these managers can learn from their peers' examples of improved management practices. Overall, site visits do not only benefit local managers via direct knowledge exchange between headquarter managers and unit managers, but also indirectly help local managers who do not receive visits through knowledge spillover among peers.  
     </p>
 </details>
 <br>
