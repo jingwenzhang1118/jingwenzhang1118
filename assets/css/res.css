@@ -22,7 +22,7 @@ hr {
     text-align: justify;
 }
 
-detail > *:not(summary){
+details > *:not(summary){
     text-indent: 32px;
 }
 summary {
