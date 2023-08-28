@@ -49,7 +49,7 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 <hr>
 
 
-<h3 class="fighd">CSR Performance over time by Gender</h3>
+<h3 class="fighd">CSR Performance over time by CEO's Gender</h3>
 
 - Many literature document that females and males make decisions differently due to their differences in characteristics. Some papers suggest that females are likely more socially responsible. 
 - Here I show that firms run by female CEOs on average have better CSR performance than firms run by male CEOs. 
