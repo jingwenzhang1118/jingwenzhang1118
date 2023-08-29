@@ -32,7 +32,7 @@ details[open] > p {
     margin: 0px;
 }
 
-details[open] > p:nth-child(2) {
+details[open] > p:nth-of-type(2) {
     margin: 0px;
     text-indent: 32px;
 }
