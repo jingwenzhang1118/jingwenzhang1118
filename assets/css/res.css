@@ -32,6 +32,7 @@ details[open] > *:not(summary){
 details[open] > div {
     text-indent: 32px;
     margin: 0px;
+    text-align: justify;
 }
 
 details[open] > p {
