@@ -32,7 +32,7 @@ details[open] > p {
     margin: 0px;
 }
 
-details[open] > p:nth-child(n+1) {
+details[open] > p:nth-child(2) {
     margin: 0px;
     text-indent: 32px;
 }
