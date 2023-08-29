@@ -22,8 +22,19 @@ hr {
     text-align: justify;
 }
 
+/*
 details[open] > *:not(summary){
     text-indent: 32px;
+    margin: 0px;
+}*/
+
+
+details[open] > div {
+    text-indent: 32px;
+    margin: 0px;
+}
+
+details[open] > p {
     margin: 0px;
 }
 
