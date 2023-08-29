@@ -28,15 +28,13 @@ details[open] > *:not(summary){
     margin: 0px;
 }*/
 
-
-details[open] > div {
-    text-indent: 32px;
-    margin: 0px;
-    text-align: justify;
-}
-
 details[open] > p {
     margin: 0px;
+}
+
+details[open] > p:nth-child(n+1) {
+    margin: 0px;
+    text-indent: 32px;
 }
 
 summary {
