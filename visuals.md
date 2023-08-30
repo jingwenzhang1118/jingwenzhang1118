@@ -57,7 +57,7 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 
 <div class="custom-video">
       <div class="custom-video__container">
-        <video class="custom-video__video" width="auto" height="90%" muted autoplay>
+        <video class="custom-video__video" width="100%" height="auto" muted autoplay>
           <source src="/images/avgcsr_gender.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
