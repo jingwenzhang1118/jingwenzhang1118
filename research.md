@@ -16,7 +16,7 @@ I have long-time experiences of  empirical studies on various topics including *
 <hr>
 
 ## Charitable CEOs
-<div class="headline">Do charitable CEOs that take positions in charities care more about their employees and deliver better ESG performance? After analyzing extensive CEO and firm data, 1M+ records of employee reviews and coroproate donation data collected through web-scrapping, this study shows that the answer is <strong>YES. 
+<div class="headline">Do charitable CEOs that take positions in charities care more about their employees and deliver better ESG performance? After analyzing extensive CEO and firm data, 1M+ records of employee reviews and coroproate donation data collected through web-scrapping, this study shows that the answer is YES. 
 </div>
 
 <p></p>
