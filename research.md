@@ -73,7 +73,7 @@ I have 9+ years of experience of executing empirical studies that examine variou
 <hr>
 
 ## Knowledge exchange and spillover effects through headquarter site visits
- <div class="headline"> Headquarter visits directly facilitate knowledge exchange between headquarter managers and unit managers being visited. But it is often overlooked that unit managers who do not receive visits also beneift from these site visits through knowledge spillovers among peers. This finding is confirmed by a study of performance trends of store managers from a successful retail chain (sales €3bn).
+ <div class="headline">A study of performance trends of store managers from a successful retail chain (sales €3bn) shows that headquarter visits facilitate knowledge exchange between headquarter managers and unit managers being visited. Moreover, unit managers who do not receive visits also beneift from site visits through knowledge spillovers among peers.
  </div>
 
 <p></p>
