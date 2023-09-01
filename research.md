@@ -16,7 +16,7 @@ I have done empirical studies on various topics including incentive contracts, p
 <hr>
 
 ## Charitable CEOs
-<div class="headline"><img style="border: 0px solid; width: 150px; height: 150px; float:left; padding:0px 30px 140px 0px" src="/images/charity.jpeg" alt="" class="inline-block">Do charitable CEOs that take positions in charities care more about their employees and deliver better ESG performance? After analyzing extensive CEO and firm data, 1M+ records of employee reviews and coroproate donation data collected through web-scrapping, this study shows that the answer is YES. 
+<img style="border: 0px solid; width: 150px; height: 150px; float:left; padding:0px 30px 140px 0px" src="/images/charity.jpeg" alt="" class="inline-block"><div class="headline">Do charitable CEOs that take positions in charities care more about their employees and deliver better ESG performance? After analyzing extensive CEO and firm data, 1M+ records of employee reviews and coroproate donation data collected through web-scrapping, this study shows that the answer is YES. 
 </div>
 
 <p></p>
