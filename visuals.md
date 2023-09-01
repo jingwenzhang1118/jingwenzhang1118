@@ -8,7 +8,7 @@ title: Data Visualization
 <link rel="stylesheet" href="/assets/css/res.css">
 
 
-Graphs improve the effectiveness of reporting. No wonder that **a good graph is worth a thousand words**. 
+Graphs improve the effectiveness of reporting. **A good graph is worth a thousand words**. 
 
 I created dynamic figures using Python to show the **trend of CSR (Corporate Social Responsibility) performance of US companies**, and **its association with some firm characteristics**. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
 <br>

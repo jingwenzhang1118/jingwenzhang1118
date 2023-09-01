@@ -6,7 +6,7 @@ title: "Projects"
 ---
 <link rel="stylesheet" href="/assets/css/res.css">
 
-I have long-time experiences of  empirical studies on various topics including **incentive contracts, performance measures, target setting, control systems, human capital, corporate governance and ESG. Here are some examples of my research projects. 
+I have long-time experiences of  empirical studies on various topics including **incentive contracts, performance measures, target setting, control systems, human capital, corporate governance and ESG**. Here are some examples of my research projects. 
 
 <div class="container">
 <img class="container_img" src="/images/Research-Image.jpg">
@@ -16,17 +16,17 @@ I have long-time experiences of  empirical studies on various topics including *
 <hr>
 
 ## Charitable CEOs
-<img style="border: 0px solid; width: 180px; height: 180px; float:center; padding:0px 30px 260px 0px" src="/images/charity.jpeg" alt="" class="inline-block"> 
-<div class="headline">Do charitable CEOs that take positions in charities care more about their employees and deliver better ESG performance? After analyzing extensive CEO and firm data, 1M+ records of employee reviews and coroproate donation data collected through web-scrapping, this study shows that the answer is YES. 
+<div class="headline">Do charitable CEOs that take positions in charities care more about their employees and deliver better ESG performance? After analyzing extensive CEO and firm data, 1M+ records of employee reviews and coroproate donation data collected through web-scrapping, this study shows that the answer is <strong>YES. 
 </div>
 
-<img style="border: 0px solid; width: 180px; height: 180px; float:center; padding:0px 30px 260px 0px" src="/images/charity.jpeg" alt="" class="inline-block"> 
 <p></p>
-<details>
-    <summary>[Read More]</summary>
-    <img style="border: 0px solid; width: 180px; height: 180px; float:left; padding:0px 30px 260px 0px" src="/images/charity.jpeg" alt="" class="inline-block"> 
+<details open>
+    <summary>[Details]</summary>
+    <img style="border: 0px solid; width: 180px; height: 180px; float:left; padding:0px 30px 60px 0px" src="/images/charity.jpeg" alt="" class="inline-block"> 
     <p>Recently, both firms and individuals face high expectations that they behave responsibly. Not only individuals volunteer for chritable organizations, CEOs have been observed taking up roles as trustees, members or directors at chariatlable organizations as well. By analyzing data on CEO and firm characteristics, 1M+ employee reviews on Glassdoor.com, and 1M+ records of corporate donations, this paper studies whether charitable CEOs, those taking positions in charities, behave consistently and ethincally in making corporate decisions.</p>
     <p>Although concerns persist that CEOs engage with charities for enhancing social image, our paper uncovers that charitable CEOs on average are likely prosocial in nature. They invest more in ESG activities and consequently garner appreciation from the employees. Furthermore, charitable CEOs behave responsibly in other corporate matters, such as issuing higher quality financial reports and offering more precise management forecasts to stakeholders.
+    <br>
+    <br>
     </p>
 </details>
 <br>
