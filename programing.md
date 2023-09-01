@@ -176,7 +176,7 @@ My codes for the *Problem sets* are linked below. The original questions of each
 ## CS50 Artificial Intelligence with Python
 
 <img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 140px 0px" src="/images/CS50AI_pll.png" alt="" class="inline-block">
-This course from Harvard University explores the concepts and algorithms at the foundation of modern artificial intelligence, including topics like search design, optimization, neural networks. 
+This course from Harvard University explores the concepts and algorithms at the foundation of modern artificial intelligence, including topics like search design, optimization and neural networks. 
 
 My codes for the *weekly projects* are shared here. The original questions of each project can be found on <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">CS50AI's website</a>.
 <br>
@@ -212,11 +212,11 @@ My codes for the *weekly projects* are shared here. The original questions of ea
 
 <img style="border: 0px solid; width: 180px; height: 220px; float:left; padding:0px 30px 0px 0px" src="/images/ML_Ng.png" alt="" class="inline-block">
 
-An excellent course for machine learning that covers various machine learning concepts, including supervised learning, unsupervised learning and reinforcement learning. 
+An excellent course for machine learning that covers various machine learning concepts, including supervised learning, unsupervised learning and reinforcement learning. I also pratice different python libararies including Numpy, Tensorflow, Scikit Learn to build different machine learning models. 
 
 Due to copyrights, I do not share course materials and codes here. For more information, please check the <a href="https://www.coursera.org/specializations/machine-learning-introduction#courses" target="_blank">course's information on Coursera</a>. 
 
-<img style="border: 0px solid; width: 100%; height: 200px; float:center; padding:0px 0px 0px 0px" src="/images/ML_certificate.png" alt="" class="inline-block">
+<img style="border: 0px; width: 100%; height: 400px; float:center; padding:0px 0px 0px 0px" src="/images/ML_certificate.png" alt="" class="inline-block">
 
 
 
