@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: "Research papers"
+title: "Projects"
 
 ---
 <link rel="stylesheet" href="/assets/css/res.css">

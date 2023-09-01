@@ -8,16 +8,16 @@ title: Data Visualization
 <link rel="stylesheet" href="/assets/css/res.css">
 
 
-Drawing graphs is of great importance for exploring data structure, identifying trends and clusters, detecting unusual data points and presenting results. Figures can quickly communicate a significant amount of information. It is without a doubt that **a good graph is worth a thousand words**. 
+Graphs improve the effectiveness of reporting. No wonder that **a good graph is worth a thousand words**. 
 
-Here I display some dynamic figures I draw using Python. In particular, I use these figures to explore the **trend of CSR (Corporate Social Responsibility) performance of US companies**, and **its association with some firm characteristics**. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
+I created dynamic figures using Python to show the **trend of CSR (Corporate Social Responsibility) performance of US companies**, and **its association with some firm characteristics**. The CSR ratings of US companies are collected from KLD database for the period from 2004 to 2018. 
 <br>
 <hr>
 
 
-<h3 class="fighd">CSR Performance over time</h3>
+<h3 class="fighd" id="#f1">CSR Performance over time</h3>
 
-- The folllowing figure suggests that CSR performance of firms has improved over time. 
+- The folllowing figure suggests that **CSR performance of firms has improved over time**. 
 
 <div class="custom-video">
       <div class="custom-video__container">
@@ -31,10 +31,9 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 <hr>
 
 
-<h3 class="fighd">CSR Performance over time by Industry</h3>
+<h3 class="fighd" id="#f2">CSR Performance over time by Industry</h3>
 
-- The plots below show that CSR performance of all industries enhanced over time. The grey area represents the average CSR performance of all the US companies. 
-- A deeper exploration shows that some industries often outperformed the average performance of all the US compaies (left figure), while the other industries mostly performed below the average (rigth figure). 
+- Although CSR performance of all industries enhanced over time, **some industries** often **outperformed** the average performance of all the US compaies (**left figure**), while the **other industries** mostly **performed below the average** (**rigth figure**)
 
 <div class="custom-video">
       <div class="custom-video__container">
@@ -49,11 +48,10 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 <hr>
 
 
-<h3 class="fighd">CSR Performance over time by CEO's Gender</h3>
+<h3 class="fighd" id="#f3">CSR Performance over time by CEO's Gender</h3>
 
-- Many literature document that females and males make decisions differently due to their differences in characteristics. Some papers suggest that females are likely more socially responsible. 
-- Here I show that firms run by female CEOs on average have better CSR performance than firms run by male CEOs. 
-- However, the difference reduced over time, as the CSR performance of firms with male CEOs kept increasing. 
+- **Firms operated by Female CEOs on average had better CSR performance** than firms run by male CEOs. 
+- However, **the difference decreased over time**, as the CSR performance of firms with male CEOs kept increasing. 
 
 <div class="custom-video">
       <div class="custom-video__container">
@@ -67,13 +65,11 @@ Here I display some dynamic figures I draw using Python. In particular, I use th
 <hr>
 
 
-<h3 class="fighd">CSR Performance and Firm Size</h3> 
+<h3 class="fighd" id="#f4">CSR Performance and Firm Size</h3> 
 
-- Large firms are expected to have more resources to invest in CSR activities, which should lead to greater CSR performance (CSR ratings). 
-- The left figure plots the linear relationship between CSR performance and firm size each year, in which firm size is measured by the logarithm of firms' total assets. For clarity, the scatter plot only shows part of the data used for each linear regression. 
-- As shown in the left figure, there is a positive assocation between CSR and firm size. Interestingly, the slope of the line increases over years, meaning that the association between CSR performance and firm size becomes greater in more recent years. 
-- The right bar chart displays the coefficients of firm size by year. Clearly, the coefficients, indicative of the association between CSR and firm size, are larger in recent years. 
-
+- As shown in the left figure, there is **a positive assocation between CSR and firm size**. 
+- Interestingly, the slope of the line increases over years, meaning that **the association between CSR performance and firm size becomes greater in more recent years**. 
+- The right bar chart clearly shows that the coefficients, indicative of the association between CSR performance and firm size, are larger in recent years. 
 
 <div class="custom-video">
       <div class="custom-video__container">
