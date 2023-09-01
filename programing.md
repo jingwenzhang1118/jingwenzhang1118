@@ -7,7 +7,7 @@ title: "Data science practices"
 <link rel="stylesheet" href="/assets/css/res.css">
 
 
-Data science and programming skills paly essential roles in solving data-related tasks. I have used *Stata, Phthon, SQL and R* for data collection, data cleaning, data analysis and data visulization. 
+I have used *Stata, Phthon, SQL and R* for data collection, data cleaning, data analysis and data visulization. 
 
 The following C, Python and SQL codes I created are used to solve various problem sets that cover topics from basic to more advanced programming tasks, data architecture, artificial intelligence and machine learning algorithms. 
 
@@ -19,7 +19,7 @@ One important lesson I learned is: **Never lose patience and confidence because 
 ## CS50 Introduction to Computer Science
 
 <img style="border: 0px solid; width: 180px; height: 180px; float: left; padding:0px 30px 140px 0px" src="/images/cs50_logo.jpg" alt="" class="inline-block">
-CS50 by Harvard University is a highly evaluated computer science course that covers different programming languages including C, python and SQL. And its topics range from computational thinking, algorithms, data structures, data exploration, to computer science more generally. 
+CS50 by Harvard University is a highly evaluated computer science course. I used several programming languages including C, python and SQL to deal with issues ranging from computational thinking, algorithms, data structures, data exploration, to computer science more generally. 
 
 Here I include my codes to solve the *Problem sets* of each topic. The original questions of each topic (week) can be found on <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50's website</a>. 
 My codes to address the *Practical problems* and *Labs* of each topic can be found <a href="https://github.com/jingwenzhang1118/CS50_complete/tree/main" target="_blank">here</a>. 
@@ -176,7 +176,7 @@ My codes for the *Problem sets* are linked below. The original questions of each
 ## CS50 Artificial Intelligence with Python
 
 <img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 140px 0px" src="/images/CS50AI_pll.png" alt="" class="inline-block">
-This course from Harvard University explores the concepts and algorithms at the foundation of modern artificial intelligence, including topics like search design, optimization and neural networks. 
+This course from Harvard University explores the concepts and algorithms at the foundation of modern artificial intelligence, including topics like search design, optimization and neural networks, and textual analyses. 
 
 My codes for the *weekly projects* are shared here. The original questions of each project can be found on <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">CS50AI's website</a>.
 <br>
@@ -212,13 +212,10 @@ My codes for the *weekly projects* are shared here. The original questions of ea
 
 <img style="border: 0px solid; width: 180px; height: 220px; float:left; padding:0px 30px 0px 0px" src="/images/ML_Ng.png" alt="" class="inline-block">
 
-An excellent course for machine learning that covers various machine learning concepts, including supervised learning, unsupervised learning and reinforcement learning. I also pratice different python libararies including Numpy, Tensorflow, Scikit Learn to build different machine learning models. 
+An excellent course for machine learning that covers various machine learning concepts, including supervised learning, unsupervised learning and reinforcement learning. I also applied different python libararies including Numpy, Tensorflow, Scikit-Learn to build machine learning models. 
 
 Due to copyrights, I do not share course materials and codes here. For more information, please check the <a href="https://www.coursera.org/specializations/machine-learning-introduction#courses" target="_blank">course's information on Coursera</a>. 
-
-<img style="border: 0px; width: 100%; height: 400px; float:center; padding:0px 0px 0px 0px" src="/images/ML_certificate.png" alt="" class="inline-block">
-
-
+<img style="border: 1px solid; width: 100%; height: 450px; float:right; padding:5px 0px 0px 0px" src="/images/ML_certificate.png" alt="" class="inline-block">
 
 <br>
 <br>
