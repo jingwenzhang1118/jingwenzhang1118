@@ -214,8 +214,7 @@ My codes for the *weekly projects* are shared here. The original questions of ea
 
 An excellent course for machine learning that covers various machine learning concepts, including supervised learning, unsupervised learning and reinforcement learning. I also applied different python libararies including Numpy, Tensorflow, Scikit-Learn to build machine learning models. 
 
-Due to copyrights, I do not share course materials and codes here. For more information, please check the <a href="https://www.coursera.org/specializations/machine-learning-introduction#courses" target="_blank">course's information on Coursera</a>. 
-<img style="border: 1px solid; width: 100%; height: 450px; float:right; padding:5px 0px 0px 0px" src="/images/ML_certificate.png" alt="" class="inline-block">
+Due to copyrights, I do not share course materials and codes here. For more information, please check the <a href="https://www.coursera.org/specializations/machine-learning-introduction#courses" target="_blank">course's information on Coursera</a>. <img style="border: 0px; width: auto; height: auto; float:right; padding:0px 0px 0px 0px" src="/images/ML_certificate.png" alt="" class="inline-block">
 
 <br>
 <br>
