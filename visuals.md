@@ -33,7 +33,7 @@ I created dynamic figures using Python to show the **trend of CSR (Corporate Soc
 
 <h3 class="fighd" id="#f2">CSR Performance over time by Industry</h3>
 
-- Although CSR performance of all industries enhanced over time, **some industries** often **outperformed** the average performance of all the US compaies (**left figure**), while the **other industries** mostly **performed below the average** (**rigth figure**)
+- **Some industries** often **outperformed** the average performance of all the US compaies (**left figure**), while the **other industries** mostly **performed below the average** (**rigth figure**)
 
 <div class="custom-video">
       <div class="custom-video__container">
@@ -67,9 +67,9 @@ I created dynamic figures using Python to show the **trend of CSR (Corporate Soc
 
 <h3 class="fighd" id="#f4">CSR Performance and Firm Size</h3> 
 
-- As shown in the left figure, there is **a positive assocation between CSR and firm size**. 
-- Interestingly, the slope of the line increases over years, meaning that **the association between CSR performance and firm size becomes greater in more recent years**. 
-- The right bar chart clearly shows that the coefficients, indicative of the association between CSR performance and firm size, are larger in recent years. 
+- The left figure shows **a positive assocation between CSR and firm size** each year. 
+- Interestingly, **the association between CSR performance and firm size becomes greater in more recent years**, as the slope of the line increases over time.
+- The right bar chart displays the coefficients and confirms that **the association between CSR performance and firm size is larger in recent years**. 
 
 <div class="custom-video">
       <div class="custom-video__container">
@@ -84,7 +84,7 @@ I created dynamic figures using Python to show the **trend of CSR (Corporate Soc
 <hr>
 
 
-<h3 class="fighd">You can find the related codes below:</h3>
+<h3 class="fighd">You can find the Python codes below:</h3>
 
 - Codes for <a href="https://github.com/jingwenzhang1118/jingwenzhang1118.github.io/blob/656d780e02a5618939aa4888a4b34e3ed38b275c/visuals_prep.ipynb" target="_blank">cleaning and restructuring the data</a>.
 - Codes for <a href="https://github.com/jingwenzhang1118/jingwenzhang1118.github.io/blob/656d780e02a5618939aa4888a4b34e3ed38b275c/visuals.ipynb" target="_blank">making the dynamic figures</a>. 
