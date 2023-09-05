@@ -14,6 +14,6 @@ I use different programming languages (e.g., Stata/Python/SQL) for data collecti
 
 I have good communication, presentation and teaching skills developed through team-working with co-authors and other faculties, presentations at top accounting conferences and teaching various courses. 
 
-Please find my <a href="https://www.dropbox.com/scl/fi/1cqxivnjoeqygforqfdgl/CV_Jingwen-Zhang.pdf?rlkey=wps8k0fkg9hbt2sgr6ott1du6&dl=0" target="_blank"><strong>Curriculum vitae</strong></a> here.
-<br>
+<!--Please find my <a href="" target="_blank"><strong>Curriculum vitae</strong></a> here.
+<br>-->
 Mail: [j.zhang@ese.eur.nl](mailto:j.zhang@ese.eur.nl)
