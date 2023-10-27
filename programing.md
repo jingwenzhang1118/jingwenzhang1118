@@ -190,23 +190,71 @@ My codes for the *weekly projects* are shared here. The original questions of ea
     <li>Week 1 Knowledge:
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week1/puzzle.py" target="_blank">knights</a> |
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week1/minesweeper.py" target="_blank">minesweeper</a> 
-    </li><li>Week 2 Uncertainty:
+    </li>
+    <li>Week 2 Uncertainty:
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week2/heredity.py" target="_blank">heredity</a> |
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week2/pagerank.py" target="_blank">pagebank</a> 
-    </li><li>Week 3 Optimization:
+    </li>
+    <li>Week 3 Optimization:
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week3/crossword-generate.py" target="_blank">crossword</a> 
-    </li><li>Week 4 Learning:
+    </li>
+    <li>Week 4 Learning:
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week4/nim.py" target="_blank">nim</a> |
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week4/shopping.py" target="_blank">shopping</a> 
-    </li><li>Week 5 Neural Networks:
+    </li>
+    <li>Week 5 Neural Networks:
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week5/traffic.py" target="_blank">traffic</a> 
-    </li><li>Week 6 Language:
+    </li>
+    <li>Week 6 Language:
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week6/parser.py" target="_blank">parser</a> |
     <a href="https://github.com/jingwenzhang1118/cs50-AI/blob/main/CS50AI/week6/questions.py" target="_blank">questions</a> 
     </li>
 </ul>
 
 <hr>
+
+## CS50 Databases with SQL
+<img style="border: 0px solid; width: 180px; height: 120px; float:left; padding:0px 30px 140px 0px" src="/images/cs50sql.jpeg" alt="" class="inline-block">
+This course from Harvard University focuses on how to use SQL to create, update and design relational databases. It also discusses how to automate seraches with views and speed up searches with indexes. 
+
+My codes for the *weekly projects* are shared below. The original questions of each project can be found on <a href="https://cs50.harvard.edu/sql/2023/" target="_blank">CS50SQL's website</a>.
+<br>
+
+<b>Codes for weekly projects</b>
+<ul>
+    <li>Week 0 Querying:
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week0/cyberchase" target="_blank">Cyberchase</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week0/normals" target="_blank">Normals</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week0/players" target="_blank">Players</a> 
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week0/views" target="_blank">36 Views</a>
+    </li>
+    <li>Week 1 Relating:
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week1/dese" target="_blank">DESE</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week1/moneyball" target="_blank">Moneyball</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week1/packages" target="_blank">Packages, Please</a>
+    </li>
+    <li>Week 2 Designing:
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week2/alt/schema.sql" target="_blank">ALT</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week2/connect/schema.sql" target="_blank">Happy to Connect</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week2/donuts/schema.sql" target="_blank">Union Square Donuts</a> 
+    </li><li>Week 3 Writing:
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week3/dont-panic/hack.sql" target="_blank">Don't Panic</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week3/meteorites/import.sql" target="_blank">Meteorite Cleaning</a> 
+    </li><li>Week 4 Viewing:
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week4/bnb" target="_blank">Bed and Breakfast</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week4/census" target="_blank">Census Taker</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week4/private/private.sql" target="_blank">The Private Eye</a> 
+    </li><li>Week 5 Optimizing:
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week5/harvard/indexes.sql" target="_blank">your.harvard</a> 
+    </li><li>Week 6 Scaling:
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week6/dont-panic-python/hack.py" target="_blank">Don't panic (python)</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/tree/3b670d090c8671ec2e61c4f1bb6c3620b6f60c95/cs50sql_week6/dont-panic-java" target="_blank">Don't panic (Java)</a> |
+    <a href="https://github.com/jingwenzhang1118/CS50_sql/blob/main/cs50sql_week6/sentimental-connect/schema.sql" target="_blank">Happy to Connect (MySQL)</a> 
+    </li>
+</ul>
+
+<hr>
+
 
 ## Machine learning Specialization
 
